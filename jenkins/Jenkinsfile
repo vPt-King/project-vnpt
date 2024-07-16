@@ -13,15 +13,13 @@ pipeline{
         stage("test")
         {
             steps{
-                sh "cd web"
-                sh "mvn clean test"
+                sh "mvn -f web/pom.xml clean test"
             }
         }
         stage("build")
         {
             steps{
-                sh "cd web"
-                sh "mvn clean install"
+                sh "mvn -f web/pom.xml clean install"
             }
         }
         stage("build and push image")
