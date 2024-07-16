@@ -25,3 +25,5 @@ ansible server: localhost
         + Build Triggers: GitHub hook trigger for GITScm polling 
         + Pipeline: Pipeline script from SCM ( Nhập link repository của git vào url )
         + script path: jenkins/Jenkinsfile
+
+4.
