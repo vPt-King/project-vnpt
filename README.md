@@ -26,4 +26,4 @@ ansible server: localhost
         + Pipeline: Pipeline script from SCM ( Nhập link repository của git vào url )
         + script path: jenkins/Jenkinsfile
 
-4.
+4. Push commit len github
