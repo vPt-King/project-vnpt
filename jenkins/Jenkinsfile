@@ -13,12 +13,14 @@ pipeline{
         stage("test")
         {
             steps{
+                sh "cd web"
                 sh "mvn clean test"
             }
         }
         stage("build")
         {
             steps{
+                sh "cd web"
                 sh "mvn clean install"
             }
         }
@@ -26,15 +28,15 @@ pipeline{
         {
             steps{
                 withDockerRegistry(credentialsId: '573f4d52-0eea-43a5-95bc-fa8dda139b5b', url: 'https://index.docker.io/v1/') {
-                    sh "docker build -f Dockerfile -t thanhvu638/project-vnpt:${BUILD_ID} ../javaweb/"
-                    sh "docker push thanhvu638/project-vnpt:${BUILD_ID}"
+                    sh "docker build -f Dockerfile -t thanhvu638/project:${BUILD_ID} ../javaweb/"
+                    sh "docker push thanhvu638/project:${BUILD_ID}"
                 }
             }
         }
         stage("ansible")
         {
             steps{
-                sh "/usr/bin/ansible-playbook /var/lib/jenkins/workspace/project-vnpt/ansible/ansible.yml -i /var/lib/jenkins/workspace/project-vnpt/ansible/inventory.ini -e \"version=${BUILD_ID}\""
+                sh "/usr/bin/ansible-playbook /var/lib/jenkins/workspace/project/ansible/ansible.yml -i /var/lib/jenkins/workspace/project/ansible/inventory.ini -e \"version=${BUILD_ID}\""
             }
         }
     }
