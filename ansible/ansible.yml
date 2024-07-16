@@ -3,12 +3,12 @@
   hosts: local
   tasks:
     - name: pull image from dockerhub
-      shell: docker pull thanhvu638/javaweb:{{ version }}
+      shell: docker pull thanhvu638/project-vnpt:{{ version }}
     
     - name: create app.yaml
       template:
-        src: ./app.yaml.j2
-        dest: /var/lib/jenkins/workspace/java-tomcat/app.yaml
+        src: ../jinja2/app.yaml.j2
+        dest: /var/lib/jenkins/workspace/project-vnpt/k8s/app.yaml
       vars:
         version: "{{ version }}"
         container_port: 8080
@@ -16,7 +16,7 @@
         node_port: 30002
       
     - name: tomcat deployment
-      command: /var/lib/jenkins/workspace/java-tomcat/./bash.sh
+      command: /var/lib/jenkins/workspace/project-vnpt/ansible/./tomcat-deployment.sh
   
       
 
