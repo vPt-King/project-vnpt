@@ -1,0 +1,23 @@
+---
+- name: pull image, create yaml file and deploy tomcat to k8s
+  hosts: local
+  tasks:
+    - name: pull image from dockerhub
+      shell: docker pull thanhvu638/javaweb:{{ version }}
+    
+    - name: create app.yaml
+      template:
+        src: ./app.yaml.j2
+        dest: /var/lib/jenkins/workspace/java-tomcat/app.yaml
+      vars:
+        version: "{{ version }}"
+        container_port: 8080
+        service_port: 8080
+        node_port: 30002
+      
+    - name: tomcat deployment
+      command: /var/lib/jenkins/workspace/java-tomcat/./bash.sh
+  
+      
+
+    

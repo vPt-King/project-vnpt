@@ -1,0 +1,37 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: tomcat-deployment
+  labels: 
+    app: tomcat-app
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: tomcat-app
+  template:
+    metadata:
+      labels:
+        app: tomcat-app
+    spec:
+      containers:
+        - name: tomcat-app
+          image: thanhvu638/javaweb:{{ version }}
+          ports: 
+          - containerPort: {{ container_port }}
+
+--- 
+
+apiVersion: v1 
+kind: Service
+metadata:
+  name: tomcat-service
+spec:
+  selector:
+    app: tomcat-app
+  type: NodePort
+  ports:
+  - port: {{ service_port }}
+    targetPort: {{ container_port }}
+    nodePort: {{ node_port }}
+    
