@@ -19,6 +19,13 @@ spec:
           image: thanhvu638/project:{{ version }}
           ports: 
           - containerPort: {{ container_port }}
+          volumeMounts:
+          - mountPath: /usr/local/tomcat/logs
+            name: tomcat-logs
+      volumes:
+      - name: tomcat-logs
+        persistentVolumeClaim:
+          claimName: pvc2
 
 --- 
 

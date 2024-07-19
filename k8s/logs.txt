@@ -1,0 +1,1156 @@
+
+==> Audit <==
+|--------------|--------------------------------------------------------------|----------|----------|---------|---------------------|---------------------|
+|   Command    |                             Args                             | Profile  |   User   | Version |     Start Time      |      End Time       |
+|--------------|--------------------------------------------------------------|----------|----------|---------|---------------------|---------------------|
+| update-check |                                                              | minikube | thanhnga | v1.33.1 | 04 Jul 24 08:06 +07 | 04 Jul 24 08:06 +07 |
+| update-check |                                                              | minikube | thanhnga | v1.33.1 | 04 Jul 24 11:40 +07 | 04 Jul 24 11:40 +07 |
+| update-check |                                                              | minikube | thanhnga | v1.33.1 | 05 Jul 24 09:05 +07 | 05 Jul 24 09:05 +07 |
+| update-check |                                                              | minikube | thanhnga | v1.33.1 | 06 Jul 24 13:47 +07 | 06 Jul 24 13:48 +07 |
+| update-check |                                                              | minikube | thanhnga | v1.33.1 | 07 Jul 24 01:28 +07 |                     |
+| update-check |                                                              | minikube | thanhnga | v1.33.1 | 07 Jul 24 08:01 +07 | 07 Jul 24 08:01 +07 |
+| update-check |                                                              | minikube | thanhnga | v1.33.1 | 07 Jul 24 13:31 +07 | 07 Jul 24 13:31 +07 |
+| update-check |                                                              | minikube | thanhnga | v1.33.1 | 07 Jul 24 20:27 +07 | 07 Jul 24 20:27 +07 |
+| update-check |                                                              | minikube | thanhnga | v1.33.1 | 07 Jul 24 23:09 +07 | 07 Jul 24 23:09 +07 |
+| update-check |                                                              | minikube | thanhnga | v1.33.1 | 08 Jul 24 07:33 +07 | 08 Jul 24 07:33 +07 |
+| update-check |                                                              | minikube | thanhnga | v1.33.1 | 08 Jul 24 07:39 +07 | 08 Jul 24 07:39 +07 |
+| update-check |                                                              | minikube | thanhnga | v1.33.1 | 08 Jul 24 07:53 +07 | 08 Jul 24 07:53 +07 |
+| update-check |                                                              | minikube | thanhnga | v1.33.1 | 08 Jul 24 07:54 +07 | 08 Jul 24 07:54 +07 |
+| update-check |                                                              | minikube | thanhnga | v1.33.1 | 08 Jul 24 07:59 +07 | 08 Jul 24 07:59 +07 |
+| update-check |                                                              | minikube | thanhnga | v1.33.1 | 08 Jul 24 08:04 +07 | 08 Jul 24 08:04 +07 |
+| update-check |                                                              | minikube | thanhnga | v1.33.1 | 08 Jul 24 16:30 +07 | 08 Jul 24 16:30 +07 |
+| update-check |                                                              | minikube | thanhnga | v1.33.1 | 08 Jul 24 19:20 +07 | 08 Jul 24 19:20 +07 |
+| update-check |                                                              | minikube | thanhnga | v1.33.1 | 08 Jul 24 21:23 +07 | 08 Jul 24 21:23 +07 |
+| update-check |                                                              | minikube | thanhnga | v1.33.1 | 09 Jul 24 14:06 +07 | 09 Jul 24 14:06 +07 |
+| update-check |                                                              | minikube | thanhnga | v1.33.1 | 09 Jul 24 15:03 +07 | 09 Jul 24 15:03 +07 |
+| update-check |                                                              | minikube | thanhnga | v1.33.1 | 10 Jul 24 02:23 +07 | 10 Jul 24 02:23 +07 |
+| update-check |                                                              | minikube | thanhnga | v1.33.1 | 10 Jul 24 07:45 +07 | 10 Jul 24 07:45 +07 |
+| update-check |                                                              | minikube | thanhnga | v1.33.1 | 10 Jul 24 16:43 +07 | 10 Jul 24 16:43 +07 |
+| update-check |                                                              | minikube | thanhnga | v1.33.1 | 10 Jul 24 20:03 +07 | 10 Jul 24 20:03 +07 |
+| update-check |                                                              | minikube | thanhnga | v1.33.1 | 11 Jul 24 09:00 +07 | 11 Jul 24 09:00 +07 |
+| update-check |                                                              | minikube | thanhnga | v1.33.1 | 13 Jul 24 10:49 +07 | 13 Jul 24 10:49 +07 |
+| update-check |                                                              | minikube | thanhnga | v1.33.1 | 13 Jul 24 12:01 +07 | 13 Jul 24 12:01 +07 |
+| update-check |                                                              | minikube | thanhnga | v1.33.1 | 13 Jul 24 14:33 +07 | 13 Jul 24 14:33 +07 |
+| update-check |                                                              | minikube | thanhnga | v1.33.1 | 16 Jul 24 09:35 +07 | 16 Jul 24 09:35 +07 |
+| update-check |                                                              | minikube | thanhnga | v1.33.1 | 16 Jul 24 09:47 +07 | 16 Jul 24 09:47 +07 |
+| update-check |                                                              | minikube | thanhnga | v1.33.1 | 16 Jul 24 10:05 +07 | 16 Jul 24 10:05 +07 |
+| update-check |                                                              | minikube | thanhnga | v1.33.1 | 16 Jul 24 15:42 +07 | 16 Jul 24 15:42 +07 |
+| update-check |                                                              | minikube | thanhnga | v1.33.1 | 17 Jul 24 07:43 +07 | 17 Jul 24 07:43 +07 |
+| update-check |                                                              | minikube | thanhnga | v1.33.1 | 17 Jul 24 08:50 +07 | 17 Jul 24 08:50 +07 |
+| update-check |                                                              | minikube | thanhnga | v1.33.1 | 17 Jul 24 10:34 +07 | 17 Jul 24 10:34 +07 |
+| update-check |                                                              | minikube | thanhnga | v1.33.1 | 17 Jul 24 10:34 +07 | 17 Jul 24 10:35 +07 |
+| ssh          | 192.168.39.47                                                | minikube | thanhnga | v1.33.1 | 17 Jul 24 10:43 +07 |                     |
+| ssh          |                                                              | minikube | thanhnga | v1.33.1 | 17 Jul 24 10:43 +07 |                     |
+| ssh          |                                                              | minikube | thanhnga | v1.33.1 | 17 Jul 24 10:52 +07 |                     |
+| ssh          |                                                              | minikube | thanhnga | v1.33.1 | 17 Jul 24 10:59 +07 |                     |
+| update-check |                                                              | minikube | thanhnga | v1.33.1 | 17 Jul 24 12:35 +07 | 17 Jul 24 12:35 +07 |
+| update-check |                                                              | minikube | thanhnga | v1.33.1 | 17 Jul 24 13:41 +07 | 17 Jul 24 13:41 +07 |
+| update-check |                                                              | minikube | thanhnga | v1.33.1 | 17 Jul 24 14:16 +07 | 17 Jul 24 14:16 +07 |
+| start        |                                                              | minikube | thanhnga | v1.33.1 | 17 Jul 24 14:23 +07 | 17 Jul 24 14:24 +07 |
+| ssh          |                                                              | minikube | thanhnga | v1.33.1 | 17 Jul 24 14:24 +07 |                     |
+| start        |                                                              | minikube | thanhnga | v1.33.1 | 17 Jul 24 14:25 +07 | 17 Jul 24 14:25 +07 |
+| ssh          |                                                              | minikube | thanhnga | v1.33.1 | 17 Jul 24 14:25 +07 | 17 Jul 24 14:26 +07 |
+| update-check |                                                              | minikube | thanhnga | v1.33.1 | 17 Jul 24 14:28 +07 | 17 Jul 24 14:28 +07 |
+| update-check |                                                              | minikube | thanhnga | v1.33.1 | 17 Jul 24 14:47 +07 | 17 Jul 24 14:47 +07 |
+| ssh          |                                                              | minikube | thanhnga | v1.33.1 | 17 Jul 24 14:59 +07 |                     |
+| update-check |                                                              | minikube | thanhnga | v1.33.1 | 17 Jul 24 16:58 +07 | 17 Jul 24 16:58 +07 |
+| update-check |                                                              | minikube | thanhnga | v1.33.1 | 17 Jul 24 19:20 +07 | 17 Jul 24 19:20 +07 |
+| update-check |                                                              | minikube | thanhnga | v1.33.1 | 18 Jul 24 08:15 +07 | 18 Jul 24 08:15 +07 |
+| update-check |                                                              | minikube | thanhnga | v1.33.1 | 18 Jul 24 10:05 +07 | 18 Jul 24 10:05 +07 |
+| update-check |                                                              | minikube | thanhnga | v1.33.1 | 18 Jul 24 10:18 +07 | 18 Jul 24 10:18 +07 |
+| update-check |                                                              | minikube | thanhnga | v1.33.1 | 18 Jul 24 11:07 +07 | 18 Jul 24 11:07 +07 |
+| update-check |                                                              | minikube | thanhnga | v1.33.1 | 18 Jul 24 20:54 +07 | 18 Jul 24 20:54 +07 |
+| update-check |                                                              | minikube | thanhnga | v1.33.1 | 19 Jul 24 06:55 +07 | 19 Jul 24 06:55 +07 |
+| update-check |                                                              | minikube | thanhnga | v1.33.1 | 19 Jul 24 09:39 +07 | 19 Jul 24 09:39 +07 |
+| mount        | /home/thanhnga/Documents/learn/project/logs/tomcat:/data/pv2 | minikube | thanhnga | v1.33.1 | 19 Jul 24 10:05 +07 |                     |
+|--------------|--------------------------------------------------------------|----------|----------|---------|---------------------|---------------------|
+
+
+==> Last Start <==
+Log file created at: 2024/07/17 14:25:00
+Running on machine: thanhnga
+Binary: Built with gc go1.22.1 for linux/amd64
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I0717 14:25:00.519729   17269 out.go:291] Setting OutFile to fd 1 ...
+I0717 14:25:00.519909   17269 out.go:343] isatty.IsTerminal(1) = true
+I0717 14:25:00.519923   17269 out.go:304] Setting ErrFile to fd 2...
+I0717 14:25:00.519936   17269 out.go:343] isatty.IsTerminal(2) = true
+I0717 14:25:00.520429   17269 root.go:338] Updating PATH: /home/thanhnga/.minikube/bin
+W0717 14:25:00.520613   17269 root.go:314] Error reading config file at /home/thanhnga/.minikube/config/config.json: open /home/thanhnga/.minikube/config/config.json: no such file or directory
+I0717 14:25:00.521077   17269 out.go:298] Setting JSON to false
+I0717 14:25:00.532616   17269 start.go:129] hostinfo: {"hostname":"thanhnga","uptime":1198,"bootTime":1721199903,"procs":295,"os":"linux","platform":"debian","platformFamily":"debian","platformVersion":"12.6","kernelVersion":"6.1.0-22-amd64","kernelArch":"x86_64","virtualizationSystem":"kvm","virtualizationRole":"host","hostId":"c560e8f2-6d8a-41d6-8ada-6eaa7003c4f6"}
+I0717 14:25:00.532704   17269 start.go:139] virtualization: kvm host
+I0717 14:25:00.536033   17269 out.go:177] 😄  minikube v1.33.1 on Debian 12.6
+I0717 14:25:00.541535   17269 notify.go:220] Checking for updates...
+I0717 14:25:00.542119   17269 config.go:182] Loaded profile config "minikube": Driver=kvm2, ContainerRuntime=docker, KubernetesVersion=v1.30.0
+I0717 14:25:00.542279   17269 driver.go:392] Setting default libvirt URI to qemu:///system
+I0717 14:25:00.543008   17269 main.go:141] libmachine: Found binary path at /home/thanhnga/.minikube/bin/docker-machine-driver-kvm2
+I0717 14:25:00.543051   17269 main.go:141] libmachine: Launching plugin server for driver kvm2
+I0717 14:25:00.576210   17269 main.go:141] libmachine: Plugin server listening at address 127.0.0.1:40257
+I0717 14:25:00.576695   17269 main.go:141] libmachine: () Calling .GetVersion
+I0717 14:25:00.577395   17269 main.go:141] libmachine: Using API Version  1
+I0717 14:25:00.577418   17269 main.go:141] libmachine: () Calling .SetConfigRaw
+I0717 14:25:00.577772   17269 main.go:141] libmachine: () Calling .GetMachineName
+I0717 14:25:00.577983   17269 main.go:141] libmachine: (minikube) Calling .DriverName
+I0717 14:25:00.724229   17269 out.go:177] ✨  Using the kvm2 driver based on existing profile
+I0717 14:25:00.726950   17269 start.go:297] selected driver: kvm2
+I0717 14:25:00.726962   17269 start.go:901] validating driver "kvm2" against &{Name:minikube KeepContext:false EmbedCerts:false MinikubeISO:https://storage.googleapis.com/minikube/iso/minikube-v1.33.1-amd64.iso KicBaseImage:gcr.io/k8s-minikube/kicbase:v0.0.44@sha256:eb04641328b06c5c4a14f4348470e1046bbcf9c2cbc551486e343d3a49db557e Memory:3900 CPUs:2 DiskSize:20000 Driver:kvm2 HyperkitVpnKitSock: HyperkitVSockPorts:[] DockerEnv:[] ContainerVolumeMounts:[] InsecureRegistry:[] RegistryMirror:[] HostOnlyCIDR:192.168.59.1/24 HypervVirtualSwitch: HypervUseExternalSwitch:false HypervExternalAdapter: KVMNetwork:default KVMQemuURI:qemu:///system KVMGPU:false KVMHidden:false KVMNUMACount:1 APIServerPort:8443 DockerOpt:[] DisableDriverMounts:false NFSShare:[] NFSSharesRoot:/nfsshares UUID: NoVTXCheck:false DNSProxy:false HostDNSResolver:true HostOnlyNicType:virtio NatNicType:virtio SSHIPAddress: SSHUser:root SSHKey: SSHPort:22 KubernetesConfig:{KubernetesVersion:v1.30.0 ClusterName:minikube Namespace:default APIServerHAVIP: APIServerName:minikubeCA APIServerNames:[] APIServerIPs:[] DNSDomain:cluster.local ContainerRuntime:docker CRISocket: NetworkPlugin:cni FeatureGates: ServiceCIDR:10.96.0.0/12 ImageRepository: LoadBalancerStartIP: LoadBalancerEndIP: CustomIngressCert: RegistryAliases: ExtraOptions:[] ShouldLoadCachedImages:true EnableDefaultCNI:false CNI:} Nodes:[{Name: IP:192.168.39.47 Port:8443 KubernetesVersion:v1.30.0 ContainerRuntime:docker ControlPlane:true Worker:true}] Addons:map[default-storageclass:true storage-provisioner:true] CustomAddonImages:map[] CustomAddonRegistries:map[] VerifyComponents:map[apiserver:true system_pods:true] StartHostTimeout:6m0s ScheduledStop:<nil> ExposedPorts:[] ListenAddress: Network: Subnet: MultiNodeRequested:false ExtraDisks:0 CertExpiration:26280h0m0s Mount:false MountString:/home/thanhnga:/minikube-host Mount9PVersion:9p2000.L MountGID:docker MountIP: MountMSize:262144 MountOptions:[] MountPort:0 MountType:9p MountUID:docker BinaryMirror: DisableOptimizations:false DisableMetrics:false CustomQemuFirmwarePath: SocketVMnetClientPath: SocketVMnetPath: StaticIP: SSHAuthSock: SSHAgentPID:0 GPUs: AutoPauseInterval:1m0s}
+I0717 14:25:00.727136   17269 start.go:912] status for kvm2: {Installed:true Healthy:true Running:true NeedsImprovement:false Error:<nil> Reason: Fix: Doc: Version:}
+I0717 14:25:00.727873   17269 install.go:52] acquiring lock: {Name:mk900956b073697a4aa6c80a27c6bb0742a99a53 Clock:{} Delay:500ms Timeout:10m0s Cancel:<nil>}
+I0717 14:25:00.727987   17269 install.go:117] Validating docker-machine-driver-kvm2, PATH=/home/thanhnga/.minikube/bin:/home/thanhnga/.nvm/versions/node/v20.14.0/bin:/usr/local/bin:/usr/bin:/bin:/usr/local/games:/usr/games:/snap/bin:/home/thanhnga/.dotnet/tools:/usr/local/go/bin:/usr/local/go/bin
+I0717 14:25:00.761758   17269 install.go:137] /home/thanhnga/.minikube/bin/docker-machine-driver-kvm2 version is 1.33.1
+I0717 14:25:00.763578   17269 cni.go:84] Creating CNI manager for ""
+I0717 14:25:00.763597   17269 cni.go:158] "kvm2" driver + "docker" container runtime found on kubernetes v1.24+, recommending bridge
+I0717 14:25:00.763696   17269 start.go:340] cluster config:
+{Name:minikube KeepContext:false EmbedCerts:false MinikubeISO:https://storage.googleapis.com/minikube/iso/minikube-v1.33.1-amd64.iso KicBaseImage:gcr.io/k8s-minikube/kicbase:v0.0.44@sha256:eb04641328b06c5c4a14f4348470e1046bbcf9c2cbc551486e343d3a49db557e Memory:3900 CPUs:2 DiskSize:20000 Driver:kvm2 HyperkitVpnKitSock: HyperkitVSockPorts:[] DockerEnv:[] ContainerVolumeMounts:[] InsecureRegistry:[] RegistryMirror:[] HostOnlyCIDR:192.168.59.1/24 HypervVirtualSwitch: HypervUseExternalSwitch:false HypervExternalAdapter: KVMNetwork:default KVMQemuURI:qemu:///system KVMGPU:false KVMHidden:false KVMNUMACount:1 APIServerPort:8443 DockerOpt:[] DisableDriverMounts:false NFSShare:[] NFSSharesRoot:/nfsshares UUID: NoVTXCheck:false DNSProxy:false HostDNSResolver:true HostOnlyNicType:virtio NatNicType:virtio SSHIPAddress: SSHUser:root SSHKey: SSHPort:22 KubernetesConfig:{KubernetesVersion:v1.30.0 ClusterName:minikube Namespace:default APIServerHAVIP: APIServerName:minikubeCA APIServerNames:[] APIServerIPs:[] DNSDomain:cluster.local ContainerRuntime:docker CRISocket: NetworkPlugin:cni FeatureGates: ServiceCIDR:10.96.0.0/12 ImageRepository: LoadBalancerStartIP: LoadBalancerEndIP: CustomIngressCert: RegistryAliases: ExtraOptions:[] ShouldLoadCachedImages:true EnableDefaultCNI:false CNI:} Nodes:[{Name: IP:192.168.39.47 Port:8443 KubernetesVersion:v1.30.0 ContainerRuntime:docker ControlPlane:true Worker:true}] Addons:map[default-storageclass:true storage-provisioner:true] CustomAddonImages:map[] CustomAddonRegistries:map[] VerifyComponents:map[apiserver:true system_pods:true] StartHostTimeout:6m0s ScheduledStop:<nil> ExposedPorts:[] ListenAddress: Network: Subnet: MultiNodeRequested:false ExtraDisks:0 CertExpiration:26280h0m0s Mount:false MountString:/home/thanhnga:/minikube-host Mount9PVersion:9p2000.L MountGID:docker MountIP: MountMSize:262144 MountOptions:[] MountPort:0 MountType:9p MountUID:docker BinaryMirror: DisableOptimizations:false DisableMetrics:false CustomQemuFirmwarePath: SocketVMnetClientPath: SocketVMnetPath: StaticIP: SSHAuthSock: SSHAgentPID:0 GPUs: AutoPauseInterval:1m0s}
+I0717 14:25:00.763823   17269 iso.go:125] acquiring lock: {Name:mk2654b4f255a86b153391696a98fc044d9df7e3 Clock:{} Delay:500ms Timeout:10m0s Cancel:<nil>}
+I0717 14:25:00.766932   17269 out.go:177] 👍  Starting "minikube" primary control-plane node in "minikube" cluster
+I0717 14:25:00.769775   17269 preload.go:132] Checking if preload exists for k8s version v1.30.0 and runtime docker
+I0717 14:25:00.769829   17269 preload.go:147] Found local preload: /home/thanhnga/.minikube/cache/preloaded-tarball/preloaded-images-k8s-v18-v1.30.0-docker-overlay2-amd64.tar.lz4
+I0717 14:25:00.769838   17269 cache.go:56] Caching tarball of preloaded images
+I0717 14:25:00.769943   17269 preload.go:173] Found /home/thanhnga/.minikube/cache/preloaded-tarball/preloaded-images-k8s-v18-v1.30.0-docker-overlay2-amd64.tar.lz4 in cache, skipping download
+I0717 14:25:00.769955   17269 cache.go:59] Finished verifying existence of preloaded tar for v1.30.0 on docker
+I0717 14:25:00.770059   17269 profile.go:143] Saving config to /home/thanhnga/.minikube/profiles/minikube/config.json ...
+I0717 14:25:00.770340   17269 start.go:360] acquireMachinesLock for minikube: {Name:mk6289cb7597479673f89955f6a9a65e263ce9df Clock:{} Delay:500ms Timeout:13m0s Cancel:<nil>}
+I0717 14:25:00.770389   17269 start.go:364] duration metric: took 31.172µs to acquireMachinesLock for "minikube"
+I0717 14:25:00.770408   17269 start.go:96] Skipping create...Using existing machine configuration
+I0717 14:25:00.770415   17269 fix.go:54] fixHost starting: 
+I0717 14:25:00.770987   17269 main.go:141] libmachine: Found binary path at /home/thanhnga/.minikube/bin/docker-machine-driver-kvm2
+I0717 14:25:00.771022   17269 main.go:141] libmachine: Launching plugin server for driver kvm2
+I0717 14:25:00.802899   17269 main.go:141] libmachine: Plugin server listening at address 127.0.0.1:43371
+I0717 14:25:00.803426   17269 main.go:141] libmachine: () Calling .GetVersion
+I0717 14:25:00.804121   17269 main.go:141] libmachine: Using API Version  1
+I0717 14:25:00.804158   17269 main.go:141] libmachine: () Calling .SetConfigRaw
+I0717 14:25:00.804701   17269 main.go:141] libmachine: () Calling .GetMachineName
+I0717 14:25:00.804942   17269 main.go:141] libmachine: (minikube) Calling .DriverName
+I0717 14:25:00.805128   17269 main.go:141] libmachine: (minikube) Calling .GetState
+I0717 14:25:00.812426   17269 fix.go:112] recreateIfNeeded on minikube: state=Running err=<nil>
+W0717 14:25:00.812468   17269 fix.go:138] unexpected machine state, will restart: <nil>
+I0717 14:25:00.815693   17269 out.go:177] 🏃  Updating the running kvm2 "minikube" VM ...
+I0717 14:25:00.818446   17269 machine.go:94] provisionDockerMachine start ...
+I0717 14:25:00.818476   17269 main.go:141] libmachine: (minikube) Calling .DriverName
+I0717 14:25:00.818807   17269 main.go:141] libmachine: (minikube) Calling .GetSSHHostname
+I0717 14:25:00.829774   17269 main.go:141] libmachine: (minikube) DBG | domain minikube has defined MAC address 52:54:00:f3:6f:97 in network mk-minikube
+I0717 14:25:00.830320   17269 main.go:141] libmachine: (minikube) DBG | found host DHCP lease matching {name: "", mac: "52:54:00:f3:6f:97", ip: ""} in network mk-minikube: {Iface:virbr1 ExpiryTime:2024-07-17 15:24:11 +0700 +07 Type:0 Mac:52:54:00:f3:6f:97 Iaid: IPaddr:192.168.39.47 Prefix:24 Hostname:minikube Clientid:01:52:54:00:f3:6f:97}
+I0717 14:25:00.830346   17269 main.go:141] libmachine: (minikube) DBG | domain minikube has defined IP address 192.168.39.47 and MAC address 52:54:00:f3:6f:97 in network mk-minikube
+I0717 14:25:00.830642   17269 main.go:141] libmachine: (minikube) Calling .GetSSHPort
+I0717 14:25:00.830850   17269 main.go:141] libmachine: (minikube) Calling .GetSSHKeyPath
+I0717 14:25:00.831040   17269 main.go:141] libmachine: (minikube) Calling .GetSSHKeyPath
+I0717 14:25:00.831214   17269 main.go:141] libmachine: (minikube) Calling .GetSSHUsername
+I0717 14:25:00.831425   17269 main.go:141] libmachine: Using SSH client type: native
+I0717 14:25:00.831768   17269 main.go:141] libmachine: &{{{<nil> 0 [] [] []} docker [0x82d6e0] 0x830440 <nil>  [] 0s} 192.168.39.47 22 <nil> <nil>}
+I0717 14:25:00.831784   17269 main.go:141] libmachine: About to run SSH command:
+hostname
+I0717 14:25:00.970475   17269 main.go:141] libmachine: SSH cmd err, output: <nil>: minikube
+
+I0717 14:25:00.970491   17269 main.go:141] libmachine: (minikube) Calling .GetMachineName
+I0717 14:25:00.970719   17269 buildroot.go:166] provisioning hostname "minikube"
+I0717 14:25:00.970732   17269 main.go:141] libmachine: (minikube) Calling .GetMachineName
+I0717 14:25:00.970941   17269 main.go:141] libmachine: (minikube) Calling .GetSSHHostname
+I0717 14:25:00.979940   17269 main.go:141] libmachine: (minikube) DBG | domain minikube has defined MAC address 52:54:00:f3:6f:97 in network mk-minikube
+I0717 14:25:00.980289   17269 main.go:141] libmachine: (minikube) DBG | found host DHCP lease matching {name: "", mac: "52:54:00:f3:6f:97", ip: ""} in network mk-minikube: {Iface:virbr1 ExpiryTime:2024-07-17 15:24:11 +0700 +07 Type:0 Mac:52:54:00:f3:6f:97 Iaid: IPaddr:192.168.39.47 Prefix:24 Hostname:minikube Clientid:01:52:54:00:f3:6f:97}
+I0717 14:25:00.980318   17269 main.go:141] libmachine: (minikube) DBG | domain minikube has defined IP address 192.168.39.47 and MAC address 52:54:00:f3:6f:97 in network mk-minikube
+I0717 14:25:00.980525   17269 main.go:141] libmachine: (minikube) Calling .GetSSHPort
+I0717 14:25:00.980731   17269 main.go:141] libmachine: (minikube) Calling .GetSSHKeyPath
+I0717 14:25:00.980897   17269 main.go:141] libmachine: (minikube) Calling .GetSSHKeyPath
+I0717 14:25:00.981042   17269 main.go:141] libmachine: (minikube) Calling .GetSSHUsername
+I0717 14:25:00.981195   17269 main.go:141] libmachine: Using SSH client type: native
+I0717 14:25:00.981419   17269 main.go:141] libmachine: &{{{<nil> 0 [] [] []} docker [0x82d6e0] 0x830440 <nil>  [] 0s} 192.168.39.47 22 <nil> <nil>}
+I0717 14:25:00.981429   17269 main.go:141] libmachine: About to run SSH command:
+sudo hostname minikube && echo "minikube" | sudo tee /etc/hostname
+I0717 14:25:01.135952   17269 main.go:141] libmachine: SSH cmd err, output: <nil>: minikube
+
+I0717 14:25:01.135980   17269 main.go:141] libmachine: (minikube) Calling .GetSSHHostname
+I0717 14:25:01.146153   17269 main.go:141] libmachine: (minikube) DBG | domain minikube has defined MAC address 52:54:00:f3:6f:97 in network mk-minikube
+I0717 14:25:01.146580   17269 main.go:141] libmachine: (minikube) DBG | found host DHCP lease matching {name: "", mac: "52:54:00:f3:6f:97", ip: ""} in network mk-minikube: {Iface:virbr1 ExpiryTime:2024-07-17 15:24:11 +0700 +07 Type:0 Mac:52:54:00:f3:6f:97 Iaid: IPaddr:192.168.39.47 Prefix:24 Hostname:minikube Clientid:01:52:54:00:f3:6f:97}
+I0717 14:25:01.146612   17269 main.go:141] libmachine: (minikube) DBG | domain minikube has defined IP address 192.168.39.47 and MAC address 52:54:00:f3:6f:97 in network mk-minikube
+I0717 14:25:01.146852   17269 main.go:141] libmachine: (minikube) Calling .GetSSHPort
+I0717 14:25:01.147064   17269 main.go:141] libmachine: (minikube) Calling .GetSSHKeyPath
+I0717 14:25:01.147226   17269 main.go:141] libmachine: (minikube) Calling .GetSSHKeyPath
+I0717 14:25:01.147384   17269 main.go:141] libmachine: (minikube) Calling .GetSSHUsername
+I0717 14:25:01.147557   17269 main.go:141] libmachine: Using SSH client type: native
+I0717 14:25:01.147864   17269 main.go:141] libmachine: &{{{<nil> 0 [] [] []} docker [0x82d6e0] 0x830440 <nil>  [] 0s} 192.168.39.47 22 <nil> <nil>}
+I0717 14:25:01.147894   17269 main.go:141] libmachine: About to run SSH command:
+
+		if ! grep -xq '.*\sminikube' /etc/hosts; then
+			if grep -xq '127.0.1.1\s.*' /etc/hosts; then
+				sudo sed -i 's/^127.0.1.1\s.*/127.0.1.1 minikube/g' /etc/hosts;
+			else 
+				echo '127.0.1.1 minikube' | sudo tee -a /etc/hosts; 
+			fi
+		fi
+I0717 14:25:01.283543   17269 main.go:141] libmachine: SSH cmd err, output: <nil>: 
+I0717 14:25:01.283563   17269 buildroot.go:172] set auth options {CertDir:/home/thanhnga/.minikube CaCertPath:/home/thanhnga/.minikube/certs/ca.pem CaPrivateKeyPath:/home/thanhnga/.minikube/certs/ca-key.pem CaCertRemotePath:/etc/docker/ca.pem ServerCertPath:/home/thanhnga/.minikube/machines/server.pem ServerKeyPath:/home/thanhnga/.minikube/machines/server-key.pem ClientKeyPath:/home/thanhnga/.minikube/certs/key.pem ServerCertRemotePath:/etc/docker/server.pem ServerKeyRemotePath:/etc/docker/server-key.pem ClientCertPath:/home/thanhnga/.minikube/certs/cert.pem ServerCertSANs:[] StorePath:/home/thanhnga/.minikube}
+I0717 14:25:01.283600   17269 buildroot.go:174] setting up certificates
+I0717 14:25:01.283612   17269 provision.go:84] configureAuth start
+I0717 14:25:01.283629   17269 main.go:141] libmachine: (minikube) Calling .GetMachineName
+I0717 14:25:01.283921   17269 main.go:141] libmachine: (minikube) Calling .GetIP
+I0717 14:25:01.294678   17269 main.go:141] libmachine: (minikube) DBG | domain minikube has defined MAC address 52:54:00:f3:6f:97 in network mk-minikube
+I0717 14:25:01.295100   17269 main.go:141] libmachine: (minikube) DBG | found host DHCP lease matching {name: "", mac: "52:54:00:f3:6f:97", ip: ""} in network mk-minikube: {Iface:virbr1 ExpiryTime:2024-07-17 15:24:11 +0700 +07 Type:0 Mac:52:54:00:f3:6f:97 Iaid: IPaddr:192.168.39.47 Prefix:24 Hostname:minikube Clientid:01:52:54:00:f3:6f:97}
+I0717 14:25:01.295120   17269 main.go:141] libmachine: (minikube) DBG | domain minikube has defined IP address 192.168.39.47 and MAC address 52:54:00:f3:6f:97 in network mk-minikube
+I0717 14:25:01.295336   17269 main.go:141] libmachine: (minikube) Calling .GetSSHHostname
+I0717 14:25:01.305516   17269 main.go:141] libmachine: (minikube) DBG | domain minikube has defined MAC address 52:54:00:f3:6f:97 in network mk-minikube
+I0717 14:25:01.305856   17269 main.go:141] libmachine: (minikube) DBG | found host DHCP lease matching {name: "", mac: "52:54:00:f3:6f:97", ip: ""} in network mk-minikube: {Iface:virbr1 ExpiryTime:2024-07-17 15:24:11 +0700 +07 Type:0 Mac:52:54:00:f3:6f:97 Iaid: IPaddr:192.168.39.47 Prefix:24 Hostname:minikube Clientid:01:52:54:00:f3:6f:97}
+I0717 14:25:01.305882   17269 main.go:141] libmachine: (minikube) DBG | domain minikube has defined IP address 192.168.39.47 and MAC address 52:54:00:f3:6f:97 in network mk-minikube
+I0717 14:25:01.306071   17269 provision.go:143] copyHostCerts
+I0717 14:25:01.306117   17269 exec_runner.go:144] found /home/thanhnga/.minikube/ca.pem, removing ...
+I0717 14:25:01.306133   17269 exec_runner.go:203] rm: /home/thanhnga/.minikube/ca.pem
+I0717 14:25:01.306201   17269 exec_runner.go:151] cp: /home/thanhnga/.minikube/certs/ca.pem --> /home/thanhnga/.minikube/ca.pem (1082 bytes)
+I0717 14:25:01.306307   17269 exec_runner.go:144] found /home/thanhnga/.minikube/cert.pem, removing ...
+I0717 14:25:01.306313   17269 exec_runner.go:203] rm: /home/thanhnga/.minikube/cert.pem
+I0717 14:25:01.306354   17269 exec_runner.go:151] cp: /home/thanhnga/.minikube/certs/cert.pem --> /home/thanhnga/.minikube/cert.pem (1127 bytes)
+I0717 14:25:01.306430   17269 exec_runner.go:144] found /home/thanhnga/.minikube/key.pem, removing ...
+I0717 14:25:01.306435   17269 exec_runner.go:203] rm: /home/thanhnga/.minikube/key.pem
+I0717 14:25:01.306472   17269 exec_runner.go:151] cp: /home/thanhnga/.minikube/certs/key.pem --> /home/thanhnga/.minikube/key.pem (1675 bytes)
+I0717 14:25:01.306540   17269 provision.go:117] generating server cert: /home/thanhnga/.minikube/machines/server.pem ca-key=/home/thanhnga/.minikube/certs/ca.pem private-key=/home/thanhnga/.minikube/certs/ca-key.pem org=thanhnga.minikube san=[127.0.0.1 192.168.39.47 localhost minikube]
+I0717 14:25:01.585848   17269 provision.go:177] copyRemoteCerts
+I0717 14:25:01.585894   17269 ssh_runner.go:195] Run: sudo mkdir -p /etc/docker /etc/docker /etc/docker
+I0717 14:25:01.585916   17269 main.go:141] libmachine: (minikube) Calling .GetSSHHostname
+I0717 14:25:01.594609   17269 main.go:141] libmachine: (minikube) DBG | domain minikube has defined MAC address 52:54:00:f3:6f:97 in network mk-minikube
+I0717 14:25:01.594992   17269 main.go:141] libmachine: (minikube) DBG | found host DHCP lease matching {name: "", mac: "52:54:00:f3:6f:97", ip: ""} in network mk-minikube: {Iface:virbr1 ExpiryTime:2024-07-17 15:24:11 +0700 +07 Type:0 Mac:52:54:00:f3:6f:97 Iaid: IPaddr:192.168.39.47 Prefix:24 Hostname:minikube Clientid:01:52:54:00:f3:6f:97}
+I0717 14:25:01.595012   17269 main.go:141] libmachine: (minikube) DBG | domain minikube has defined IP address 192.168.39.47 and MAC address 52:54:00:f3:6f:97 in network mk-minikube
+I0717 14:25:01.595238   17269 main.go:141] libmachine: (minikube) Calling .GetSSHPort
+I0717 14:25:01.595416   17269 main.go:141] libmachine: (minikube) Calling .GetSSHKeyPath
+I0717 14:25:01.595569   17269 main.go:141] libmachine: (minikube) Calling .GetSSHUsername
+I0717 14:25:01.595696   17269 sshutil.go:53] new ssh client: &{IP:192.168.39.47 Port:22 SSHKeyPath:/home/thanhnga/.minikube/machines/minikube/id_rsa Username:docker}
+I0717 14:25:01.697210   17269 ssh_runner.go:362] scp /home/thanhnga/.minikube/certs/ca.pem --> /etc/docker/ca.pem (1082 bytes)
+I0717 14:25:01.743622   17269 ssh_runner.go:362] scp /home/thanhnga/.minikube/machines/server.pem --> /etc/docker/server.pem (1184 bytes)
+I0717 14:25:01.786436   17269 ssh_runner.go:362] scp /home/thanhnga/.minikube/machines/server-key.pem --> /etc/docker/server-key.pem (1679 bytes)
+I0717 14:25:01.834590   17269 provision.go:87] duration metric: took 550.96374ms to configureAuth
+I0717 14:25:01.834606   17269 buildroot.go:189] setting minikube options for container-runtime
+I0717 14:25:01.834815   17269 config.go:182] Loaded profile config "minikube": Driver=kvm2, ContainerRuntime=docker, KubernetesVersion=v1.30.0
+I0717 14:25:01.834835   17269 main.go:141] libmachine: (minikube) Calling .DriverName
+I0717 14:25:01.835076   17269 main.go:141] libmachine: (minikube) Calling .GetSSHHostname
+I0717 14:25:01.845103   17269 main.go:141] libmachine: (minikube) DBG | domain minikube has defined MAC address 52:54:00:f3:6f:97 in network mk-minikube
+I0717 14:25:01.845469   17269 main.go:141] libmachine: (minikube) DBG | found host DHCP lease matching {name: "", mac: "52:54:00:f3:6f:97", ip: ""} in network mk-minikube: {Iface:virbr1 ExpiryTime:2024-07-17 15:24:11 +0700 +07 Type:0 Mac:52:54:00:f3:6f:97 Iaid: IPaddr:192.168.39.47 Prefix:24 Hostname:minikube Clientid:01:52:54:00:f3:6f:97}
+I0717 14:25:01.845490   17269 main.go:141] libmachine: (minikube) DBG | domain minikube has defined IP address 192.168.39.47 and MAC address 52:54:00:f3:6f:97 in network mk-minikube
+I0717 14:25:01.845702   17269 main.go:141] libmachine: (minikube) Calling .GetSSHPort
+I0717 14:25:01.845892   17269 main.go:141] libmachine: (minikube) Calling .GetSSHKeyPath
+I0717 14:25:01.846041   17269 main.go:141] libmachine: (minikube) Calling .GetSSHKeyPath
+I0717 14:25:01.846194   17269 main.go:141] libmachine: (minikube) Calling .GetSSHUsername
+I0717 14:25:01.846359   17269 main.go:141] libmachine: Using SSH client type: native
+I0717 14:25:01.846641   17269 main.go:141] libmachine: &{{{<nil> 0 [] [] []} docker [0x82d6e0] 0x830440 <nil>  [] 0s} 192.168.39.47 22 <nil> <nil>}
+I0717 14:25:01.846656   17269 main.go:141] libmachine: About to run SSH command:
+df --output=fstype / | tail -n 1
+I0717 14:25:01.973094   17269 main.go:141] libmachine: SSH cmd err, output: <nil>: tmpfs
+
+I0717 14:25:01.973106   17269 buildroot.go:70] root file system type: tmpfs
+I0717 14:25:01.973227   17269 provision.go:314] Updating docker unit: /lib/systemd/system/docker.service ...
+I0717 14:25:01.973242   17269 main.go:141] libmachine: (minikube) Calling .GetSSHHostname
+I0717 14:25:01.982142   17269 main.go:141] libmachine: (minikube) DBG | domain minikube has defined MAC address 52:54:00:f3:6f:97 in network mk-minikube
+I0717 14:25:01.982556   17269 main.go:141] libmachine: (minikube) DBG | found host DHCP lease matching {name: "", mac: "52:54:00:f3:6f:97", ip: ""} in network mk-minikube: {Iface:virbr1 ExpiryTime:2024-07-17 15:24:11 +0700 +07 Type:0 Mac:52:54:00:f3:6f:97 Iaid: IPaddr:192.168.39.47 Prefix:24 Hostname:minikube Clientid:01:52:54:00:f3:6f:97}
+I0717 14:25:01.982584   17269 main.go:141] libmachine: (minikube) DBG | domain minikube has defined IP address 192.168.39.47 and MAC address 52:54:00:f3:6f:97 in network mk-minikube
+I0717 14:25:01.982816   17269 main.go:141] libmachine: (minikube) Calling .GetSSHPort
+I0717 14:25:01.983018   17269 main.go:141] libmachine: (minikube) Calling .GetSSHKeyPath
+I0717 14:25:01.983182   17269 main.go:141] libmachine: (minikube) Calling .GetSSHKeyPath
+I0717 14:25:01.983325   17269 main.go:141] libmachine: (minikube) Calling .GetSSHUsername
+I0717 14:25:01.983476   17269 main.go:141] libmachine: Using SSH client type: native
+I0717 14:25:01.983681   17269 main.go:141] libmachine: &{{{<nil> 0 [] [] []} docker [0x82d6e0] 0x830440 <nil>  [] 0s} 192.168.39.47 22 <nil> <nil>}
+I0717 14:25:01.983777   17269 main.go:141] libmachine: About to run SSH command:
+sudo mkdir -p /lib/systemd/system && printf %!s(MISSING) "[Unit]
+Description=Docker Application Container Engine
+Documentation=https://docs.docker.com
+After=network.target  minikube-automount.service docker.socket
+Requires= minikube-automount.service docker.socket 
+StartLimitBurst=3
+StartLimitIntervalSec=60
+
+[Service]
+Type=notify
+Restart=on-failure
+
+
+
+# This file is a systemd drop-in unit that inherits from the base dockerd configuration.
+# The base configuration already specifies an 'ExecStart=...' command. The first directive
+# here is to clear out that command inherited from the base configuration. Without this,
+# the command from the base configuration and the command specified here are treated as
+# a sequence of commands, which is not the desired behavior, nor is it valid -- systemd
+# will catch this invalid input and refuse to start the service with an error like:
+#  Service has more than one ExecStart= setting, which is only allowed for Type=oneshot services.
+
+# NOTE: default-ulimit=nofile is set to an arbitrary number for consistency with other
+# container runtimes. If left unlimited, it may result in OOM issues with MySQL.
+ExecStart=
+ExecStart=/usr/bin/dockerd -H tcp://0.0.0.0:2376 -H unix:///var/run/docker.sock --default-ulimit=nofile=1048576:1048576 --tlsverify --tlscacert /etc/docker/ca.pem --tlscert /etc/docker/server.pem --tlskey /etc/docker/server-key.pem --label provider=kvm2 --insecure-registry 10.96.0.0/12 
+ExecReload=/bin/kill -s HUP \$MAINPID
+
+# Having non-zero Limit*s causes performance problems due to accounting overhead
+# in the kernel. We recommend using cgroups to do container-local accounting.
+LimitNOFILE=infinity
+LimitNPROC=infinity
+LimitCORE=infinity
+
+# Uncomment TasksMax if your systemd version supports it.
+# Only systemd 226 and above support this version.
+TasksMax=infinity
+TimeoutStartSec=0
+
+# set delegate yes so that systemd does not reset the cgroups of docker containers
+Delegate=yes
+
+# kill only the docker process, not all processes in the cgroup
+KillMode=process
+
+[Install]
+WantedBy=multi-user.target
+" | sudo tee /lib/systemd/system/docker.service.new
+I0717 14:25:02.148684   17269 main.go:141] libmachine: SSH cmd err, output: <nil>: [Unit]
+Description=Docker Application Container Engine
+Documentation=https://docs.docker.com
+After=network.target  minikube-automount.service docker.socket
+Requires= minikube-automount.service docker.socket 
+StartLimitBurst=3
+StartLimitIntervalSec=60
+
+[Service]
+Type=notify
+Restart=on-failure
+
+
+
+# This file is a systemd drop-in unit that inherits from the base dockerd configuration.
+# The base configuration already specifies an 'ExecStart=...' command. The first directive
+# here is to clear out that command inherited from the base configuration. Without this,
+# the command from the base configuration and the command specified here are treated as
+# a sequence of commands, which is not the desired behavior, nor is it valid -- systemd
+# will catch this invalid input and refuse to start the service with an error like:
+#  Service has more than one ExecStart= setting, which is only allowed for Type=oneshot services.
+
+# NOTE: default-ulimit=nofile is set to an arbitrary number for consistency with other
+# container runtimes. If left unlimited, it may result in OOM issues with MySQL.
+ExecStart=
+ExecStart=/usr/bin/dockerd -H tcp://0.0.0.0:2376 -H unix:///var/run/docker.sock --default-ulimit=nofile=1048576:1048576 --tlsverify --tlscacert /etc/docker/ca.pem --tlscert /etc/docker/server.pem --tlskey /etc/docker/server-key.pem --label provider=kvm2 --insecure-registry 10.96.0.0/12 
+ExecReload=/bin/kill -s HUP $MAINPID
+
+# Having non-zero Limit*s causes performance problems due to accounting overhead
+# in the kernel. We recommend using cgroups to do container-local accounting.
+LimitNOFILE=infinity
+LimitNPROC=infinity
+LimitCORE=infinity
+
+# Uncomment TasksMax if your systemd version supports it.
+# Only systemd 226 and above support this version.
+TasksMax=infinity
+TimeoutStartSec=0
+
+# set delegate yes so that systemd does not reset the cgroups of docker containers
+Delegate=yes
+
+# kill only the docker process, not all processes in the cgroup
+KillMode=process
+
+[Install]
+WantedBy=multi-user.target
+
+I0717 14:25:02.148702   17269 main.go:141] libmachine: (minikube) Calling .GetSSHHostname
+I0717 14:25:02.159160   17269 main.go:141] libmachine: (minikube) DBG | domain minikube has defined MAC address 52:54:00:f3:6f:97 in network mk-minikube
+I0717 14:25:02.159564   17269 main.go:141] libmachine: (minikube) DBG | found host DHCP lease matching {name: "", mac: "52:54:00:f3:6f:97", ip: ""} in network mk-minikube: {Iface:virbr1 ExpiryTime:2024-07-17 15:24:11 +0700 +07 Type:0 Mac:52:54:00:f3:6f:97 Iaid: IPaddr:192.168.39.47 Prefix:24 Hostname:minikube Clientid:01:52:54:00:f3:6f:97}
+I0717 14:25:02.159591   17269 main.go:141] libmachine: (minikube) DBG | domain minikube has defined IP address 192.168.39.47 and MAC address 52:54:00:f3:6f:97 in network mk-minikube
+I0717 14:25:02.159854   17269 main.go:141] libmachine: (minikube) Calling .GetSSHPort
+I0717 14:25:02.160067   17269 main.go:141] libmachine: (minikube) Calling .GetSSHKeyPath
+I0717 14:25:02.160213   17269 main.go:141] libmachine: (minikube) Calling .GetSSHKeyPath
+I0717 14:25:02.160361   17269 main.go:141] libmachine: (minikube) Calling .GetSSHUsername
+I0717 14:25:02.160510   17269 main.go:141] libmachine: Using SSH client type: native
+I0717 14:25:02.160726   17269 main.go:141] libmachine: &{{{<nil> 0 [] [] []} docker [0x82d6e0] 0x830440 <nil>  [] 0s} 192.168.39.47 22 <nil> <nil>}
+I0717 14:25:02.160745   17269 main.go:141] libmachine: About to run SSH command:
+sudo diff -u /lib/systemd/system/docker.service /lib/systemd/system/docker.service.new || { sudo mv /lib/systemd/system/docker.service.new /lib/systemd/system/docker.service; sudo systemctl -f daemon-reload && sudo systemctl -f enable docker && sudo systemctl -f restart docker; }
+I0717 14:25:02.296307   17269 main.go:141] libmachine: SSH cmd err, output: <nil>: 
+I0717 14:25:02.296322   17269 machine.go:97] duration metric: took 1.477862459s to provisionDockerMachine
+I0717 14:25:02.296335   17269 start.go:293] postStartSetup for "minikube" (driver="kvm2")
+I0717 14:25:02.296352   17269 start.go:322] creating required directories: [/etc/kubernetes/addons /etc/kubernetes/manifests /var/tmp/minikube /var/lib/minikube /var/lib/minikube/certs /var/lib/minikube/images /var/lib/minikube/binaries /tmp/gvisor /usr/share/ca-certificates /etc/ssl/certs]
+I0717 14:25:02.296375   17269 main.go:141] libmachine: (minikube) Calling .DriverName
+I0717 14:25:02.296744   17269 ssh_runner.go:195] Run: sudo mkdir -p /etc/kubernetes/addons /etc/kubernetes/manifests /var/tmp/minikube /var/lib/minikube /var/lib/minikube/certs /var/lib/minikube/images /var/lib/minikube/binaries /tmp/gvisor /usr/share/ca-certificates /etc/ssl/certs
+I0717 14:25:02.296764   17269 main.go:141] libmachine: (minikube) Calling .GetSSHHostname
+I0717 14:25:02.306689   17269 main.go:141] libmachine: (minikube) DBG | domain minikube has defined MAC address 52:54:00:f3:6f:97 in network mk-minikube
+I0717 14:25:02.307065   17269 main.go:141] libmachine: (minikube) DBG | found host DHCP lease matching {name: "", mac: "52:54:00:f3:6f:97", ip: ""} in network mk-minikube: {Iface:virbr1 ExpiryTime:2024-07-17 15:24:11 +0700 +07 Type:0 Mac:52:54:00:f3:6f:97 Iaid: IPaddr:192.168.39.47 Prefix:24 Hostname:minikube Clientid:01:52:54:00:f3:6f:97}
+I0717 14:25:02.307083   17269 main.go:141] libmachine: (minikube) DBG | domain minikube has defined IP address 192.168.39.47 and MAC address 52:54:00:f3:6f:97 in network mk-minikube
+I0717 14:25:02.307329   17269 main.go:141] libmachine: (minikube) Calling .GetSSHPort
+I0717 14:25:02.307548   17269 main.go:141] libmachine: (minikube) Calling .GetSSHKeyPath
+I0717 14:25:02.307730   17269 main.go:141] libmachine: (minikube) Calling .GetSSHUsername
+I0717 14:25:02.307886   17269 sshutil.go:53] new ssh client: &{IP:192.168.39.47 Port:22 SSHKeyPath:/home/thanhnga/.minikube/machines/minikube/id_rsa Username:docker}
+I0717 14:25:02.410286   17269 ssh_runner.go:195] Run: cat /etc/os-release
+I0717 14:25:02.416084   17269 info.go:137] Remote host: Buildroot 2023.02.9
+I0717 14:25:02.416105   17269 filesync.go:126] Scanning /home/thanhnga/.minikube/addons for local assets ...
+I0717 14:25:02.416182   17269 filesync.go:126] Scanning /home/thanhnga/.minikube/files for local assets ...
+I0717 14:25:02.416216   17269 start.go:296] duration metric: took 119.872441ms for postStartSetup
+I0717 14:25:02.416239   17269 fix.go:56] duration metric: took 1.645824142s for fixHost
+I0717 14:25:02.416264   17269 main.go:141] libmachine: (minikube) Calling .GetSSHHostname
+I0717 14:25:02.425133   17269 main.go:141] libmachine: (minikube) DBG | domain minikube has defined MAC address 52:54:00:f3:6f:97 in network mk-minikube
+I0717 14:25:02.425497   17269 main.go:141] libmachine: (minikube) DBG | found host DHCP lease matching {name: "", mac: "52:54:00:f3:6f:97", ip: ""} in network mk-minikube: {Iface:virbr1 ExpiryTime:2024-07-17 15:24:11 +0700 +07 Type:0 Mac:52:54:00:f3:6f:97 Iaid: IPaddr:192.168.39.47 Prefix:24 Hostname:minikube Clientid:01:52:54:00:f3:6f:97}
+I0717 14:25:02.425523   17269 main.go:141] libmachine: (minikube) DBG | domain minikube has defined IP address 192.168.39.47 and MAC address 52:54:00:f3:6f:97 in network mk-minikube
+I0717 14:25:02.425767   17269 main.go:141] libmachine: (minikube) Calling .GetSSHPort
+I0717 14:25:02.425945   17269 main.go:141] libmachine: (minikube) Calling .GetSSHKeyPath
+I0717 14:25:02.426113   17269 main.go:141] libmachine: (minikube) Calling .GetSSHKeyPath
+I0717 14:25:02.426247   17269 main.go:141] libmachine: (minikube) Calling .GetSSHUsername
+I0717 14:25:02.426421   17269 main.go:141] libmachine: Using SSH client type: native
+I0717 14:25:02.426713   17269 main.go:141] libmachine: &{{{<nil> 0 [] [] []} docker [0x82d6e0] 0x830440 <nil>  [] 0s} 192.168.39.47 22 <nil> <nil>}
+I0717 14:25:02.426726   17269 main.go:141] libmachine: About to run SSH command:
+date +%!s(MISSING).%!N(MISSING)
+I0717 14:25:02.547476   17269 main.go:141] libmachine: SSH cmd err, output: <nil>: 1721201102.575582937
+
+I0717 14:25:02.547491   17269 fix.go:216] guest clock: 1721201102.575582937
+I0717 14:25:02.547503   17269 fix.go:229] Guest: 2024-07-17 14:25:02.575582937 +0700 +07 Remote: 2024-07-17 14:25:02.416242732 +0700 +07 m=+1.941657782 (delta=159.340205ms)
+I0717 14:25:02.547532   17269 fix.go:200] guest clock delta is within tolerance: 159.340205ms
+I0717 14:25:02.547539   17269 start.go:83] releasing machines lock for "minikube", held for 1.777139951s
+I0717 14:25:02.547565   17269 main.go:141] libmachine: (minikube) Calling .DriverName
+I0717 14:25:02.547867   17269 main.go:141] libmachine: (minikube) Calling .GetIP
+I0717 14:25:02.558455   17269 main.go:141] libmachine: (minikube) DBG | domain minikube has defined MAC address 52:54:00:f3:6f:97 in network mk-minikube
+I0717 14:25:02.559490   17269 main.go:141] libmachine: (minikube) Calling .DriverName
+I0717 14:25:02.559491   17269 main.go:141] libmachine: (minikube) DBG | found host DHCP lease matching {name: "", mac: "52:54:00:f3:6f:97", ip: ""} in network mk-minikube: {Iface:virbr1 ExpiryTime:2024-07-17 15:24:11 +0700 +07 Type:0 Mac:52:54:00:f3:6f:97 Iaid: IPaddr:192.168.39.47 Prefix:24 Hostname:minikube Clientid:01:52:54:00:f3:6f:97}
+I0717 14:25:02.559536   17269 main.go:141] libmachine: (minikube) DBG | domain minikube has defined IP address 192.168.39.47 and MAC address 52:54:00:f3:6f:97 in network mk-minikube
+I0717 14:25:02.560032   17269 main.go:141] libmachine: (minikube) Calling .DriverName
+I0717 14:25:02.560207   17269 main.go:141] libmachine: (minikube) Calling .DriverName
+I0717 14:25:02.560287   17269 ssh_runner.go:195] Run: curl -sS -m 2 https://registry.k8s.io/
+I0717 14:25:02.560320   17269 main.go:141] libmachine: (minikube) Calling .GetSSHHostname
+I0717 14:25:02.560385   17269 ssh_runner.go:195] Run: cat /version.json
+I0717 14:25:02.560406   17269 main.go:141] libmachine: (minikube) Calling .GetSSHHostname
+I0717 14:25:02.571237   17269 main.go:141] libmachine: (minikube) DBG | domain minikube has defined MAC address 52:54:00:f3:6f:97 in network mk-minikube
+I0717 14:25:02.571679   17269 main.go:141] libmachine: (minikube) DBG | found host DHCP lease matching {name: "", mac: "52:54:00:f3:6f:97", ip: ""} in network mk-minikube: {Iface:virbr1 ExpiryTime:2024-07-17 15:24:11 +0700 +07 Type:0 Mac:52:54:00:f3:6f:97 Iaid: IPaddr:192.168.39.47 Prefix:24 Hostname:minikube Clientid:01:52:54:00:f3:6f:97}
+I0717 14:25:02.571706   17269 main.go:141] libmachine: (minikube) DBG | domain minikube has defined IP address 192.168.39.47 and MAC address 52:54:00:f3:6f:97 in network mk-minikube
+I0717 14:25:02.571963   17269 main.go:141] libmachine: (minikube) Calling .GetSSHPort
+I0717 14:25:02.572172   17269 main.go:141] libmachine: (minikube) Calling .GetSSHKeyPath
+I0717 14:25:02.572331   17269 main.go:141] libmachine: (minikube) Calling .GetSSHUsername
+I0717 14:25:02.572474   17269 sshutil.go:53] new ssh client: &{IP:192.168.39.47 Port:22 SSHKeyPath:/home/thanhnga/.minikube/machines/minikube/id_rsa Username:docker}
+I0717 14:25:02.573605   17269 main.go:141] libmachine: (minikube) DBG | domain minikube has defined MAC address 52:54:00:f3:6f:97 in network mk-minikube
+I0717 14:25:02.574036   17269 main.go:141] libmachine: (minikube) DBG | found host DHCP lease matching {name: "", mac: "52:54:00:f3:6f:97", ip: ""} in network mk-minikube: {Iface:virbr1 ExpiryTime:2024-07-17 15:24:11 +0700 +07 Type:0 Mac:52:54:00:f3:6f:97 Iaid: IPaddr:192.168.39.47 Prefix:24 Hostname:minikube Clientid:01:52:54:00:f3:6f:97}
+I0717 14:25:02.574063   17269 main.go:141] libmachine: (minikube) DBG | domain minikube has defined IP address 192.168.39.47 and MAC address 52:54:00:f3:6f:97 in network mk-minikube
+I0717 14:25:02.574301   17269 main.go:141] libmachine: (minikube) Calling .GetSSHPort
+I0717 14:25:02.574476   17269 main.go:141] libmachine: (minikube) Calling .GetSSHKeyPath
+I0717 14:25:02.574623   17269 main.go:141] libmachine: (minikube) Calling .GetSSHUsername
+I0717 14:25:02.574758   17269 sshutil.go:53] new ssh client: &{IP:192.168.39.47 Port:22 SSHKeyPath:/home/thanhnga/.minikube/machines/minikube/id_rsa Username:docker}
+I0717 14:25:02.658999   17269 ssh_runner.go:195] Run: systemctl --version
+I0717 14:25:02.941873   17269 ssh_runner.go:195] Run: sh -c "stat /etc/cni/net.d/*loopback.conf*"
+W0717 14:25:02.950420   17269 cni.go:209] loopback cni configuration skipped: "/etc/cni/net.d/*loopback.conf*" not found
+I0717 14:25:02.950470   17269 ssh_runner.go:195] Run: sudo find /etc/cni/net.d -maxdepth 1 -type f ( ( -name *bridge* -or -name *podman* ) -and -not -name *.mk_disabled ) -printf "%!p(MISSING), " -exec sh -c "sudo mv {} {}.mk_disabled" ;
+I0717 14:25:02.963981   17269 cni.go:259] no active bridge cni configs found in "/etc/cni/net.d" - nothing to disable
+I0717 14:25:02.963995   17269 start.go:494] detecting cgroup driver to use...
+I0717 14:25:02.964094   17269 ssh_runner.go:195] Run: /bin/bash -c "sudo mkdir -p /etc && printf %!s(MISSING) "runtime-endpoint: unix:///run/containerd/containerd.sock
+" | sudo tee /etc/crictl.yaml"
+I0717 14:25:02.997047   17269 ssh_runner.go:195] Run: sh -c "sudo sed -i -r 's|^( *)sandbox_image = .*$|\1sandbox_image = "registry.k8s.io/pause:3.9"|' /etc/containerd/config.toml"
+I0717 14:25:03.017644   17269 ssh_runner.go:195] Run: sh -c "sudo sed -i -r 's|^( *)restrict_oom_score_adj = .*$|\1restrict_oom_score_adj = false|' /etc/containerd/config.toml"
+I0717 14:25:03.033764   17269 containerd.go:146] configuring containerd to use "cgroupfs" as cgroup driver...
+I0717 14:25:03.033828   17269 ssh_runner.go:195] Run: sh -c "sudo sed -i -r 's|^( *)SystemdCgroup = .*$|\1SystemdCgroup = false|g' /etc/containerd/config.toml"
+I0717 14:25:03.049160   17269 ssh_runner.go:195] Run: sh -c "sudo sed -i 's|"io.containerd.runtime.v1.linux"|"io.containerd.runc.v2"|g' /etc/containerd/config.toml"
+I0717 14:25:03.065491   17269 ssh_runner.go:195] Run: sh -c "sudo sed -i '/systemd_cgroup/d' /etc/containerd/config.toml"
+I0717 14:25:03.083278   17269 ssh_runner.go:195] Run: sh -c "sudo sed -i 's|"io.containerd.runc.v1"|"io.containerd.runc.v2"|g' /etc/containerd/config.toml"
+I0717 14:25:03.100168   17269 ssh_runner.go:195] Run: sh -c "sudo rm -rf /etc/cni/net.mk"
+I0717 14:25:03.117442   17269 ssh_runner.go:195] Run: sh -c "sudo sed -i -r 's|^( *)conf_dir = .*$|\1conf_dir = "/etc/cni/net.d"|g' /etc/containerd/config.toml"
+I0717 14:25:03.132258   17269 ssh_runner.go:195] Run: sh -c "sudo sed -i '/^ *enable_unprivileged_ports = .*/d' /etc/containerd/config.toml"
+I0717 14:25:03.146877   17269 ssh_runner.go:195] Run: sh -c "sudo sed -i -r 's|^( *)\[plugins."io.containerd.grpc.v1.cri"\]|&\n\1  enable_unprivileged_ports = true|' /etc/containerd/config.toml"
+I0717 14:25:03.164053   17269 ssh_runner.go:195] Run: sudo sysctl net.bridge.bridge-nf-call-iptables
+I0717 14:25:03.176801   17269 ssh_runner.go:195] Run: sudo sh -c "echo 1 > /proc/sys/net/ipv4/ip_forward"
+I0717 14:25:03.189722   17269 ssh_runner.go:195] Run: sudo systemctl daemon-reload
+I0717 14:25:03.514669   17269 ssh_runner.go:195] Run: sudo systemctl restart containerd
+I0717 14:25:03.545945   17269 start.go:494] detecting cgroup driver to use...
+I0717 14:25:03.546007   17269 ssh_runner.go:195] Run: sudo systemctl cat docker.service
+I0717 14:25:03.570447   17269 ssh_runner.go:195] Run: sudo systemctl is-active --quiet service containerd
+I0717 14:25:03.589713   17269 ssh_runner.go:195] Run: sudo systemctl stop -f containerd
+I0717 14:25:03.627225   17269 ssh_runner.go:195] Run: sudo systemctl is-active --quiet service containerd
+I0717 14:25:03.649603   17269 ssh_runner.go:195] Run: sudo systemctl is-active --quiet service crio
+I0717 14:25:03.672515   17269 ssh_runner.go:195] Run: /bin/bash -c "sudo mkdir -p /etc && printf %!s(MISSING) "runtime-endpoint: unix:///var/run/cri-dockerd.sock
+" | sudo tee /etc/crictl.yaml"
+I0717 14:25:03.705700   17269 ssh_runner.go:195] Run: which cri-dockerd
+I0717 14:25:03.713726   17269 ssh_runner.go:195] Run: sudo mkdir -p /etc/systemd/system/cri-docker.service.d
+I0717 14:25:03.734578   17269 ssh_runner.go:362] scp memory --> /etc/systemd/system/cri-docker.service.d/10-cni.conf (189 bytes)
+I0717 14:25:03.764767   17269 ssh_runner.go:195] Run: sudo systemctl unmask docker.service
+I0717 14:25:04.068041   17269 ssh_runner.go:195] Run: sudo systemctl enable docker.socket
+I0717 14:25:04.388472   17269 docker.go:574] configuring docker to use "cgroupfs" as cgroup driver...
+I0717 14:25:04.388591   17269 ssh_runner.go:362] scp memory --> /etc/docker/daemon.json (130 bytes)
+I0717 14:25:04.419514   17269 ssh_runner.go:195] Run: sudo systemctl daemon-reload
+I0717 14:25:04.719714   17269 ssh_runner.go:195] Run: sudo systemctl restart docker
+I0717 14:25:17.655359   17269 ssh_runner.go:235] Completed: sudo systemctl restart docker: (12.935612798s)
+I0717 14:25:17.655429   17269 ssh_runner.go:195] Run: sudo systemctl is-active --quiet service cri-docker.socket
+I0717 14:25:17.675243   17269 ssh_runner.go:195] Run: sudo systemctl stop cri-docker.socket
+I0717 14:25:17.709487   17269 ssh_runner.go:195] Run: sudo systemctl is-active --quiet service cri-docker.service
+I0717 14:25:17.728911   17269 ssh_runner.go:195] Run: sudo systemctl unmask cri-docker.socket
+I0717 14:25:17.937994   17269 ssh_runner.go:195] Run: sudo systemctl enable cri-docker.socket
+I0717 14:25:18.163127   17269 ssh_runner.go:195] Run: sudo systemctl daemon-reload
+I0717 14:25:18.365506   17269 ssh_runner.go:195] Run: sudo systemctl restart cri-docker.socket
+I0717 14:25:18.387345   17269 ssh_runner.go:195] Run: sudo systemctl is-active --quiet service cri-docker.service
+I0717 14:25:18.404827   17269 ssh_runner.go:195] Run: sudo systemctl daemon-reload
+I0717 14:25:18.603293   17269 ssh_runner.go:195] Run: sudo systemctl restart cri-docker.service
+I0717 14:25:18.712662   17269 start.go:541] Will wait 60s for socket path /var/run/cri-dockerd.sock
+I0717 14:25:18.712716   17269 ssh_runner.go:195] Run: stat /var/run/cri-dockerd.sock
+I0717 14:25:18.721753   17269 start.go:562] Will wait 60s for crictl version
+I0717 14:25:18.721809   17269 ssh_runner.go:195] Run: which crictl
+I0717 14:25:18.726695   17269 ssh_runner.go:195] Run: sudo /usr/bin/crictl version
+I0717 14:25:18.819838   17269 start.go:578] Version:  0.1.0
+RuntimeName:  docker
+RuntimeVersion:  26.0.2
+RuntimeApiVersion:  v1
+I0717 14:25:18.819895   17269 ssh_runner.go:195] Run: docker version --format {{.Server.Version}}
+I0717 14:25:18.911837   17269 ssh_runner.go:195] Run: docker version --format {{.Server.Version}}
+I0717 14:25:18.988390   17269 out.go:204] 🐳  Preparing Kubernetes v1.30.0 on Docker 26.0.2 ...
+I0717 14:25:18.988455   17269 main.go:141] libmachine: (minikube) Calling .GetIP
+I0717 14:25:18.999932   17269 main.go:141] libmachine: (minikube) DBG | domain minikube has defined MAC address 52:54:00:f3:6f:97 in network mk-minikube
+I0717 14:25:19.000352   17269 main.go:141] libmachine: (minikube) DBG | found host DHCP lease matching {name: "", mac: "52:54:00:f3:6f:97", ip: ""} in network mk-minikube: {Iface:virbr1 ExpiryTime:2024-07-17 15:24:11 +0700 +07 Type:0 Mac:52:54:00:f3:6f:97 Iaid: IPaddr:192.168.39.47 Prefix:24 Hostname:minikube Clientid:01:52:54:00:f3:6f:97}
+I0717 14:25:19.000377   17269 main.go:141] libmachine: (minikube) DBG | domain minikube has defined IP address 192.168.39.47 and MAC address 52:54:00:f3:6f:97 in network mk-minikube
+I0717 14:25:19.000695   17269 ssh_runner.go:195] Run: grep 192.168.39.1	host.minikube.internal$ /etc/hosts
+I0717 14:25:19.005915   17269 kubeadm.go:877] updating cluster {Name:minikube KeepContext:false EmbedCerts:false MinikubeISO:https://storage.googleapis.com/minikube/iso/minikube-v1.33.1-amd64.iso KicBaseImage:gcr.io/k8s-minikube/kicbase:v0.0.44@sha256:eb04641328b06c5c4a14f4348470e1046bbcf9c2cbc551486e343d3a49db557e Memory:3900 CPUs:2 DiskSize:20000 Driver:kvm2 HyperkitVpnKitSock: HyperkitVSockPorts:[] DockerEnv:[] ContainerVolumeMounts:[] InsecureRegistry:[] RegistryMirror:[] HostOnlyCIDR:192.168.59.1/24 HypervVirtualSwitch: HypervUseExternalSwitch:false HypervExternalAdapter: KVMNetwork:default KVMQemuURI:qemu:///system KVMGPU:false KVMHidden:false KVMNUMACount:1 APIServerPort:8443 DockerOpt:[] DisableDriverMounts:false NFSShare:[] NFSSharesRoot:/nfsshares UUID: NoVTXCheck:false DNSProxy:false HostDNSResolver:true HostOnlyNicType:virtio NatNicType:virtio SSHIPAddress: SSHUser:root SSHKey: SSHPort:22 KubernetesConfig:{KubernetesVersion:v1.30.0 ClusterName:minikube Namespace:default APIServerHAVIP: APIServerName:minikubeCA APIServerNames:[] APIServerIPs:[] DNSDomain:cluster.local ContainerRuntime:docker CRISocket: NetworkPlugin:cni FeatureGates: ServiceCIDR:10.96.0.0/12 ImageRepository: LoadBalancerStartIP: LoadBalancerEndIP: CustomIngressCert: RegistryAliases: ExtraOptions:[] ShouldLoadCachedImages:true EnableDefaultCNI:false CNI:} Nodes:[{Name: IP:192.168.39.47 Port:8443 KubernetesVersion:v1.30.0 ContainerRuntime:docker ControlPlane:true Worker:true}] Addons:map[default-storageclass:true storage-provisioner:true] CustomAddonImages:map[] CustomAddonRegistries:map[] VerifyComponents:map[apiserver:true system_pods:true] StartHostTimeout:6m0s ScheduledStop:<nil> ExposedPorts:[] ListenAddress: Network: Subnet: MultiNodeRequested:false ExtraDisks:0 CertExpiration:26280h0m0s Mount:false MountString:/home/thanhnga:/minikube-host Mount9PVersion:9p2000.L MountGID:docker MountIP: MountMSize:262144 MountOptions:[] MountPort:0 MountType:9p MountUID:docker BinaryMirror: DisableOptimizations:false DisableMetrics:false CustomQemuFirmwarePath: SocketVMnetClientPath: SocketVMnetPath: StaticIP: SSHAuthSock: SSHAgentPID:0 GPUs: AutoPauseInterval:1m0s} ...
+I0717 14:25:19.006024   17269 preload.go:132] Checking if preload exists for k8s version v1.30.0 and runtime docker
+I0717 14:25:19.006073   17269 ssh_runner.go:195] Run: docker images --format {{.Repository}}:{{.Tag}}
+I0717 14:25:19.071025   17269 docker.go:685] Got preloaded images: -- stdout --
+thanhvu638/project:15
+thanhvu638/javaweb:69
+thanhvu638/javaweb:67
+thanhvu638/javaweb:66
+thanhvu638/javaweb:64
+thanhvu638/javaweb:53
+thanhvu638/javaweb:42
+thanhvu638/javaweb:41
+thanhvu638/spring-app:33
+thanhvu638/spring-app:32
+thanhvu638/javaweb:v3
+thanhvu638/spring-app:30
+thanhvu638/spring-app:29
+thanhvu638/spring-app:28
+thanhvu638/spring-app:27
+thanhvu638/spring-app:26
+thanhvu638/spring-app:11
+thanhvu638/nodejs:tmdt
+nginx:<none>
+nginx:latest
+mysql:8.0
+mysql:8.0.37
+nginx:alpine
+mongo:latest
+registry.k8s.io/kube-apiserver:v1.30.0
+registry.k8s.io/kube-scheduler:v1.30.0
+registry.k8s.io/kube-controller-manager:v1.30.0
+registry.k8s.io/kube-proxy:v1.30.0
+mongo-express:latest
+registry.k8s.io/etcd:3.5.12-0
+mysql:5.7
+registry.k8s.io/coredns/coredns:v1.11.1
+registry.k8s.io/pause:3.9
+mysql:5.6
+gcr.io/k8s-minikube/storage-provisioner:v5
+nginx:1.16
+
+-- /stdout --
+I0717 14:25:19.071046   17269 docker.go:615] Images already preloaded, skipping extraction
+I0717 14:25:19.071102   17269 ssh_runner.go:195] Run: docker images --format {{.Repository}}:{{.Tag}}
+I0717 14:25:19.115349   17269 docker.go:685] Got preloaded images: -- stdout --
+thanhvu638/project:15
+thanhvu638/javaweb:69
+thanhvu638/javaweb:67
+thanhvu638/javaweb:66
+thanhvu638/javaweb:64
+thanhvu638/javaweb:53
+thanhvu638/javaweb:42
+thanhvu638/javaweb:41
+thanhvu638/spring-app:33
+thanhvu638/spring-app:32
+thanhvu638/javaweb:v3
+thanhvu638/spring-app:30
+thanhvu638/spring-app:29
+thanhvu638/spring-app:28
+thanhvu638/spring-app:27
+thanhvu638/spring-app:26
+thanhvu638/spring-app:11
+thanhvu638/nodejs:tmdt
+nginx:<none>
+nginx:latest
+mysql:8.0
+mysql:8.0.37
+nginx:alpine
+mongo:latest
+registry.k8s.io/kube-apiserver:v1.30.0
+registry.k8s.io/kube-controller-manager:v1.30.0
+registry.k8s.io/kube-scheduler:v1.30.0
+registry.k8s.io/kube-proxy:v1.30.0
+mongo-express:latest
+registry.k8s.io/etcd:3.5.12-0
+mysql:5.7
+registry.k8s.io/coredns/coredns:v1.11.1
+registry.k8s.io/pause:3.9
+mysql:5.6
+gcr.io/k8s-minikube/storage-provisioner:v5
+nginx:1.16
+
+-- /stdout --
+I0717 14:25:19.115369   17269 cache_images.go:84] Images are preloaded, skipping loading
+I0717 14:25:19.115380   17269 kubeadm.go:928] updating node { 192.168.39.47 8443 v1.30.0 docker true true} ...
+I0717 14:25:19.115523   17269 kubeadm.go:940] kubelet [Unit]
+Wants=docker.socket
+
+[Service]
+ExecStart=
+ExecStart=/var/lib/minikube/binaries/v1.30.0/kubelet --bootstrap-kubeconfig=/etc/kubernetes/bootstrap-kubelet.conf --config=/var/lib/kubelet/config.yaml --hostname-override=minikube --kubeconfig=/etc/kubernetes/kubelet.conf --node-ip=192.168.39.47
+
+[Install]
+ config:
+{KubernetesVersion:v1.30.0 ClusterName:minikube Namespace:default APIServerHAVIP: APIServerName:minikubeCA APIServerNames:[] APIServerIPs:[] DNSDomain:cluster.local ContainerRuntime:docker CRISocket: NetworkPlugin:cni FeatureGates: ServiceCIDR:10.96.0.0/12 ImageRepository: LoadBalancerStartIP: LoadBalancerEndIP: CustomIngressCert: RegistryAliases: ExtraOptions:[] ShouldLoadCachedImages:true EnableDefaultCNI:false CNI:}
+I0717 14:25:19.115602   17269 ssh_runner.go:195] Run: docker info --format {{.CgroupDriver}}
+I0717 14:25:19.168911   17269 cni.go:84] Creating CNI manager for ""
+I0717 14:25:19.168927   17269 cni.go:158] "kvm2" driver + "docker" container runtime found on kubernetes v1.24+, recommending bridge
+I0717 14:25:19.168938   17269 kubeadm.go:84] Using pod CIDR: 10.244.0.0/16
+I0717 14:25:19.168960   17269 kubeadm.go:181] kubeadm options: {CertDir:/var/lib/minikube/certs ServiceCIDR:10.96.0.0/12 PodSubnet:10.244.0.0/16 AdvertiseAddress:192.168.39.47 APIServerPort:8443 KubernetesVersion:v1.30.0 EtcdDataDir:/var/lib/minikube/etcd EtcdExtraArgs:map[] ClusterName:minikube NodeName:minikube DNSDomain:cluster.local CRISocket:/var/run/cri-dockerd.sock ImageRepository: ComponentOptions:[{Component:apiServer ExtraArgs:map[enable-admission-plugins:NamespaceLifecycle,LimitRanger,ServiceAccount,DefaultStorageClass,DefaultTolerationSeconds,NodeRestriction,MutatingAdmissionWebhook,ValidatingAdmissionWebhook,ResourceQuota] Pairs:map[certSANs:["127.0.0.1", "localhost", "192.168.39.47"]]} {Component:controllerManager ExtraArgs:map[allocate-node-cidrs:true leader-elect:false] Pairs:map[]} {Component:scheduler ExtraArgs:map[leader-elect:false] Pairs:map[]}] FeatureArgs:map[] NodeIP:192.168.39.47 CgroupDriver:cgroupfs ClientCAFile:/var/lib/minikube/certs/ca.crt StaticPodPath:/etc/kubernetes/manifests ControlPlaneAddress:control-plane.minikube.internal KubeProxyOptions:map[] ResolvConfSearchRegression:false KubeletConfigOpts:map[containerRuntimeEndpoint:unix:///var/run/cri-dockerd.sock hairpinMode:hairpin-veth runtimeRequestTimeout:15m] PrependCriSocketUnix:true}
+I0717 14:25:19.169111   17269 kubeadm.go:187] kubeadm config:
+apiVersion: kubeadm.k8s.io/v1beta3
+kind: InitConfiguration
+localAPIEndpoint:
+  advertiseAddress: 192.168.39.47
+  bindPort: 8443
+bootstrapTokens:
+  - groups:
+      - system:bootstrappers:kubeadm:default-node-token
+    ttl: 24h0m0s
+    usages:
+      - signing
+      - authentication
+nodeRegistration:
+  criSocket: unix:///var/run/cri-dockerd.sock
+  name: "minikube"
+  kubeletExtraArgs:
+    node-ip: 192.168.39.47
+  taints: []
+---
+apiVersion: kubeadm.k8s.io/v1beta3
+kind: ClusterConfiguration
+apiServer:
+  certSANs: ["127.0.0.1", "localhost", "192.168.39.47"]
+  extraArgs:
+    enable-admission-plugins: "NamespaceLifecycle,LimitRanger,ServiceAccount,DefaultStorageClass,DefaultTolerationSeconds,NodeRestriction,MutatingAdmissionWebhook,ValidatingAdmissionWebhook,ResourceQuota"
+controllerManager:
+  extraArgs:
+    allocate-node-cidrs: "true"
+    leader-elect: "false"
+scheduler:
+  extraArgs:
+    leader-elect: "false"
+certificatesDir: /var/lib/minikube/certs
+clusterName: mk
+controlPlaneEndpoint: control-plane.minikube.internal:8443
+etcd:
+  local:
+    dataDir: /var/lib/minikube/etcd
+    extraArgs:
+      proxy-refresh-interval: "70000"
+kubernetesVersion: v1.30.0
+networking:
+  dnsDomain: cluster.local
+  podSubnet: "10.244.0.0/16"
+  serviceSubnet: 10.96.0.0/12
+---
+apiVersion: kubelet.config.k8s.io/v1beta1
+kind: KubeletConfiguration
+authentication:
+  x509:
+    clientCAFile: /var/lib/minikube/certs/ca.crt
+cgroupDriver: cgroupfs
+containerRuntimeEndpoint: unix:///var/run/cri-dockerd.sock
+hairpinMode: hairpin-veth
+runtimeRequestTimeout: 15m
+clusterDomain: "cluster.local"
+# disable disk resource management by default
+imageGCHighThresholdPercent: 100
+evictionHard:
+  nodefs.available: "0%!"(MISSING)
+  nodefs.inodesFree: "0%!"(MISSING)
+  imagefs.available: "0%!"(MISSING)
+failSwapOn: false
+staticPodPath: /etc/kubernetes/manifests
+---
+apiVersion: kubeproxy.config.k8s.io/v1alpha1
+kind: KubeProxyConfiguration
+clusterCIDR: "10.244.0.0/16"
+metricsBindAddress: 0.0.0.0:10249
+conntrack:
+  maxPerCore: 0
+# Skip setting "net.netfilter.nf_conntrack_tcp_timeout_established"
+  tcpEstablishedTimeout: 0s
+# Skip setting "net.netfilter.nf_conntrack_tcp_timeout_close"
+  tcpCloseWaitTimeout: 0s
+
+I0717 14:25:19.169166   17269 ssh_runner.go:195] Run: sudo ls /var/lib/minikube/binaries/v1.30.0
+I0717 14:25:19.193946   17269 binaries.go:44] Found k8s binaries, skipping transfer
+I0717 14:25:19.194008   17269 ssh_runner.go:195] Run: sudo mkdir -p /etc/systemd/system/kubelet.service.d /lib/systemd/system /var/tmp/minikube
+I0717 14:25:19.211269   17269 ssh_runner.go:362] scp memory --> /etc/systemd/system/kubelet.service.d/10-kubeadm.conf (308 bytes)
+I0717 14:25:19.244309   17269 ssh_runner.go:362] scp memory --> /lib/systemd/system/kubelet.service (352 bytes)
+I0717 14:25:19.280149   17269 ssh_runner.go:362] scp memory --> /var/tmp/minikube/kubeadm.yaml.new (2153 bytes)
+I0717 14:25:19.308390   17269 ssh_runner.go:195] Run: grep 192.168.39.47	control-plane.minikube.internal$ /etc/hosts
+I0717 14:25:19.313906   17269 ssh_runner.go:195] Run: sudo systemctl daemon-reload
+I0717 14:25:19.647724   17269 ssh_runner.go:195] Run: sudo systemctl start kubelet
+I0717 14:25:19.678822   17269 certs.go:68] Setting up /home/thanhnga/.minikube/profiles/minikube for IP: 192.168.39.47
+I0717 14:25:19.678835   17269 certs.go:194] generating shared ca certs ...
+I0717 14:25:19.678874   17269 certs.go:226] acquiring lock for ca certs: {Name:mkfcdc6b0d1338391a4b8bb57649cf5476ac1871 Clock:{} Delay:500ms Timeout:1m0s Cancel:<nil>}
+I0717 14:25:19.679068   17269 certs.go:235] skipping valid "minikubeCA" ca cert: /home/thanhnga/.minikube/ca.key
+I0717 14:25:19.679152   17269 certs.go:235] skipping valid "proxyClientCA" ca cert: /home/thanhnga/.minikube/proxy-client-ca.key
+I0717 14:25:19.679167   17269 certs.go:256] generating profile certs ...
+I0717 14:25:19.679309   17269 certs.go:359] skipping valid signed profile cert regeneration for "minikube-user": /home/thanhnga/.minikube/profiles/minikube/client.key
+I0717 14:25:19.679404   17269 certs.go:359] skipping valid signed profile cert regeneration for "minikube": /home/thanhnga/.minikube/profiles/minikube/apiserver.key.8226f8f4
+I0717 14:25:19.679480   17269 certs.go:359] skipping valid signed profile cert regeneration for "aggregator": /home/thanhnga/.minikube/profiles/minikube/proxy-client.key
+I0717 14:25:19.679657   17269 certs.go:484] found cert: /home/thanhnga/.minikube/certs/ca-key.pem (1679 bytes)
+I0717 14:25:19.679706   17269 certs.go:484] found cert: /home/thanhnga/.minikube/certs/ca.pem (1082 bytes)
+I0717 14:25:19.679750   17269 certs.go:484] found cert: /home/thanhnga/.minikube/certs/cert.pem (1127 bytes)
+I0717 14:25:19.679793   17269 certs.go:484] found cert: /home/thanhnga/.minikube/certs/key.pem (1675 bytes)
+I0717 14:25:19.681107   17269 ssh_runner.go:362] scp /home/thanhnga/.minikube/ca.crt --> /var/lib/minikube/certs/ca.crt (1111 bytes)
+I0717 14:25:19.738083   17269 ssh_runner.go:362] scp /home/thanhnga/.minikube/ca.key --> /var/lib/minikube/certs/ca.key (1675 bytes)
+I0717 14:25:19.826098   17269 ssh_runner.go:362] scp /home/thanhnga/.minikube/proxy-client-ca.crt --> /var/lib/minikube/certs/proxy-client-ca.crt (1119 bytes)
+I0717 14:25:19.886727   17269 ssh_runner.go:362] scp /home/thanhnga/.minikube/proxy-client-ca.key --> /var/lib/minikube/certs/proxy-client-ca.key (1679 bytes)
+I0717 14:25:19.960975   17269 ssh_runner.go:362] scp /home/thanhnga/.minikube/profiles/minikube/apiserver.crt --> /var/lib/minikube/certs/apiserver.crt (1411 bytes)
+I0717 14:25:20.064458   17269 ssh_runner.go:362] scp /home/thanhnga/.minikube/profiles/minikube/apiserver.key --> /var/lib/minikube/certs/apiserver.key (1675 bytes)
+I0717 14:25:20.176543   17269 ssh_runner.go:362] scp /home/thanhnga/.minikube/profiles/minikube/proxy-client.crt --> /var/lib/minikube/certs/proxy-client.crt (1147 bytes)
+I0717 14:25:20.251070   17269 ssh_runner.go:362] scp /home/thanhnga/.minikube/profiles/minikube/proxy-client.key --> /var/lib/minikube/certs/proxy-client.key (1675 bytes)
+I0717 14:25:20.335746   17269 ssh_runner.go:362] scp /home/thanhnga/.minikube/ca.crt --> /usr/share/ca-certificates/minikubeCA.pem (1111 bytes)
+I0717 14:25:20.420944   17269 ssh_runner.go:362] scp memory --> /var/lib/minikube/kubeconfig (738 bytes)
+I0717 14:25:20.471063   17269 ssh_runner.go:195] Run: openssl version
+I0717 14:25:20.482976   17269 ssh_runner.go:195] Run: sudo /bin/bash -c "test -s /usr/share/ca-certificates/minikubeCA.pem && ln -fs /usr/share/ca-certificates/minikubeCA.pem /etc/ssl/certs/minikubeCA.pem"
+I0717 14:25:20.499088   17269 ssh_runner.go:195] Run: ls -la /usr/share/ca-certificates/minikubeCA.pem
+I0717 14:25:20.506396   17269 certs.go:528] hashing: -rw-r--r-- 1 root root 1111 Jun 21 01:20 /usr/share/ca-certificates/minikubeCA.pem
+I0717 14:25:20.506443   17269 ssh_runner.go:195] Run: openssl x509 -hash -noout -in /usr/share/ca-certificates/minikubeCA.pem
+I0717 14:25:20.517464   17269 ssh_runner.go:195] Run: sudo /bin/bash -c "test -L /etc/ssl/certs/b5213941.0 || ln -fs /etc/ssl/certs/minikubeCA.pem /etc/ssl/certs/b5213941.0"
+I0717 14:25:20.549574   17269 ssh_runner.go:195] Run: stat /var/lib/minikube/certs/apiserver-kubelet-client.crt
+I0717 14:25:20.562373   17269 ssh_runner.go:195] Run: openssl x509 -noout -in /var/lib/minikube/certs/apiserver-etcd-client.crt -checkend 86400
+I0717 14:25:20.581755   17269 ssh_runner.go:195] Run: openssl x509 -noout -in /var/lib/minikube/certs/apiserver-kubelet-client.crt -checkend 86400
+I0717 14:25:20.597709   17269 ssh_runner.go:195] Run: openssl x509 -noout -in /var/lib/minikube/certs/etcd/server.crt -checkend 86400
+I0717 14:25:20.609276   17269 ssh_runner.go:195] Run: openssl x509 -noout -in /var/lib/minikube/certs/etcd/healthcheck-client.crt -checkend 86400
+I0717 14:25:20.625672   17269 ssh_runner.go:195] Run: openssl x509 -noout -in /var/lib/minikube/certs/etcd/peer.crt -checkend 86400
+I0717 14:25:20.639277   17269 ssh_runner.go:195] Run: openssl x509 -noout -in /var/lib/minikube/certs/front-proxy-client.crt -checkend 86400
+I0717 14:25:20.656512   17269 kubeadm.go:391] StartCluster: {Name:minikube KeepContext:false EmbedCerts:false MinikubeISO:https://storage.googleapis.com/minikube/iso/minikube-v1.33.1-amd64.iso KicBaseImage:gcr.io/k8s-minikube/kicbase:v0.0.44@sha256:eb04641328b06c5c4a14f4348470e1046bbcf9c2cbc551486e343d3a49db557e Memory:3900 CPUs:2 DiskSize:20000 Driver:kvm2 HyperkitVpnKitSock: HyperkitVSockPorts:[] DockerEnv:[] ContainerVolumeMounts:[] InsecureRegistry:[] RegistryMirror:[] HostOnlyCIDR:192.168.59.1/24 HypervVirtualSwitch: HypervUseExternalSwitch:false HypervExternalAdapter: KVMNetwork:default KVMQemuURI:qemu:///system KVMGPU:false KVMHidden:false KVMNUMACount:1 APIServerPort:8443 DockerOpt:[] DisableDriverMounts:false NFSShare:[] NFSSharesRoot:/nfsshares UUID: NoVTXCheck:false DNSProxy:false HostDNSResolver:true HostOnlyNicType:virtio NatNicType:virtio SSHIPAddress: SSHUser:root SSHKey: SSHPort:22 KubernetesConfig:{KubernetesVersion:v1.30.0 ClusterName:minikube Namespace:default APIServerHAVIP: APIServerName:minikubeCA APIServerNames:[] APIServerIPs:[] DNSDomain:cluster.local ContainerRuntime:docker CRISocket: NetworkPlugin:cni FeatureGates: ServiceCIDR:10.96.0.0/12 ImageRepository: LoadBalancerStartIP: LoadBalancerEndIP: CustomIngressCert: RegistryAliases: ExtraOptions:[] ShouldLoadCachedImages:true EnableDefaultCNI:false CNI:} Nodes:[{Name: IP:192.168.39.47 Port:8443 KubernetesVersion:v1.30.0 ContainerRuntime:docker ControlPlane:true Worker:true}] Addons:map[default-storageclass:true storage-provisioner:true] CustomAddonImages:map[] CustomAddonRegistries:map[] VerifyComponents:map[apiserver:true system_pods:true] StartHostTimeout:6m0s ScheduledStop:<nil> ExposedPorts:[] ListenAddress: Network: Subnet: MultiNodeRequested:false ExtraDisks:0 CertExpiration:26280h0m0s Mount:false MountString:/home/thanhnga:/minikube-host Mount9PVersion:9p2000.L MountGID:docker MountIP: MountMSize:262144 MountOptions:[] MountPort:0 MountType:9p MountUID:docker BinaryMirror: DisableOptimizations:false DisableMetrics:false CustomQemuFirmwarePath: SocketVMnetClientPath: SocketVMnetPath: StaticIP: SSHAuthSock: SSHAgentPID:0 GPUs: AutoPauseInterval:1m0s}
+I0717 14:25:20.656688   17269 ssh_runner.go:195] Run: docker ps --filter status=paused --filter=name=k8s_.*_(kube-system)_ --format={{.ID}}
+I0717 14:25:20.688621   17269 ssh_runner.go:195] Run: sudo ls /var/lib/kubelet/kubeadm-flags.env /var/lib/kubelet/config.yaml /var/lib/minikube/etcd
+W0717 14:25:20.713727   17269 kubeadm.go:404] apiserver tunnel failed: apiserver port not set
+I0717 14:25:20.713744   17269 kubeadm.go:407] found existing configuration files, will attempt cluster restart
+I0717 14:25:20.713751   17269 kubeadm.go:587] restartPrimaryControlPlane start ...
+I0717 14:25:20.713809   17269 ssh_runner.go:195] Run: sudo test -d /data/minikube
+I0717 14:25:20.735508   17269 kubeadm.go:129] /data/minikube skipping compat symlinks: sudo test -d /data/minikube: Process exited with status 1
+stdout:
+
+stderr:
+I0717 14:25:20.736431   17269 kubeconfig.go:125] found "minikube" server: "https://192.168.39.47:8443"
+I0717 14:25:20.738744   17269 ssh_runner.go:195] Run: sudo diff -u /var/tmp/minikube/kubeadm.yaml /var/tmp/minikube/kubeadm.yaml.new
+I0717 14:25:20.764789   17269 kubeadm.go:624] The running cluster does not require reconfiguration: 192.168.39.47
+I0717 14:25:20.764820   17269 kubeadm.go:1154] stopping kube-system containers ...
+I0717 14:25:20.764881   17269 ssh_runner.go:195] Run: docker ps -a --filter=name=k8s_.*_(kube-system)_ --format={{.ID}}
+I0717 14:25:20.833785   17269 docker.go:483] Stopping containers: [b9c8cde536ef 753ae2372650 a501d48a7c6d bf8b8955132c 1fcc5e51e961 56ace6abae48 f210d872e911 097b88503de3 d3ccbb4b09c0 1e885d97b50e 2c16c57ae852 dacd0fec4aa2 494c34fa8019 c3d0f2a37e8b e09104e54345 cce82802f9d8 cf867151c50c 13aba7c605d0 556fb2970d12 d1937c966d48 6db20d6c17ba 0a998a2a8a49 28ff0969e397 707a3703d8f7 cb8cf9a80ce5 526d43074e80 d42b0b5f4025 9e8f83cd1ca8 b47411a39158 e9523203e3c5 1d474e99ea09 873131e760e3 517143caffdc 8dff73c6e42e 0264b21666b9]
+I0717 14:25:20.833899   17269 ssh_runner.go:195] Run: docker stop b9c8cde536ef 753ae2372650 a501d48a7c6d bf8b8955132c 1fcc5e51e961 56ace6abae48 f210d872e911 097b88503de3 d3ccbb4b09c0 1e885d97b50e 2c16c57ae852 dacd0fec4aa2 494c34fa8019 c3d0f2a37e8b e09104e54345 cce82802f9d8 cf867151c50c 13aba7c605d0 556fb2970d12 d1937c966d48 6db20d6c17ba 0a998a2a8a49 28ff0969e397 707a3703d8f7 cb8cf9a80ce5 526d43074e80 d42b0b5f4025 9e8f83cd1ca8 b47411a39158 e9523203e3c5 1d474e99ea09 873131e760e3 517143caffdc 8dff73c6e42e 0264b21666b9
+I0717 14:25:31.038420   17269 ssh_runner.go:235] Completed: docker stop b9c8cde536ef 753ae2372650 a501d48a7c6d bf8b8955132c 1fcc5e51e961 56ace6abae48 f210d872e911 097b88503de3 d3ccbb4b09c0 1e885d97b50e 2c16c57ae852 dacd0fec4aa2 494c34fa8019 c3d0f2a37e8b e09104e54345 cce82802f9d8 cf867151c50c 13aba7c605d0 556fb2970d12 d1937c966d48 6db20d6c17ba 0a998a2a8a49 28ff0969e397 707a3703d8f7 cb8cf9a80ce5 526d43074e80 d42b0b5f4025 9e8f83cd1ca8 b47411a39158 e9523203e3c5 1d474e99ea09 873131e760e3 517143caffdc 8dff73c6e42e 0264b21666b9: (10.204471576s)
+I0717 14:25:31.038490   17269 ssh_runner.go:195] Run: sudo systemctl stop kubelet
+I0717 14:25:31.089843   17269 ssh_runner.go:195] Run: sudo ls -la /etc/kubernetes/admin.conf /etc/kubernetes/kubelet.conf /etc/kubernetes/controller-manager.conf /etc/kubernetes/scheduler.conf
+I0717 14:25:31.103074   17269 kubeadm.go:156] found existing configuration files:
+-rw------- 1 root root 5651 Jul 17 07:24 /etc/kubernetes/admin.conf
+-rw------- 1 root root 5657 Jul 17 07:24 /etc/kubernetes/controller-manager.conf
+-rw------- 1 root root 5655 Jul 17 07:24 /etc/kubernetes/kubelet.conf
+-rw------- 1 root root 5601 Jul 17 07:24 /etc/kubernetes/scheduler.conf
+
+I0717 14:25:31.103130   17269 ssh_runner.go:195] Run: sudo grep https://control-plane.minikube.internal:8443 /etc/kubernetes/admin.conf
+I0717 14:25:31.115284   17269 ssh_runner.go:195] Run: sudo grep https://control-plane.minikube.internal:8443 /etc/kubernetes/kubelet.conf
+I0717 14:25:31.128032   17269 ssh_runner.go:195] Run: sudo grep https://control-plane.minikube.internal:8443 /etc/kubernetes/controller-manager.conf
+I0717 14:25:31.140467   17269 kubeadm.go:162] "https://control-plane.minikube.internal:8443" may not be in /etc/kubernetes/controller-manager.conf - will remove: sudo grep https://control-plane.minikube.internal:8443 /etc/kubernetes/controller-manager.conf: Process exited with status 1
+stdout:
+
+stderr:
+I0717 14:25:31.140534   17269 ssh_runner.go:195] Run: sudo rm -f /etc/kubernetes/controller-manager.conf
+I0717 14:25:31.153471   17269 ssh_runner.go:195] Run: sudo grep https://control-plane.minikube.internal:8443 /etc/kubernetes/scheduler.conf
+I0717 14:25:31.165499   17269 kubeadm.go:162] "https://control-plane.minikube.internal:8443" may not be in /etc/kubernetes/scheduler.conf - will remove: sudo grep https://control-plane.minikube.internal:8443 /etc/kubernetes/scheduler.conf: Process exited with status 1
+stdout:
+
+stderr:
+I0717 14:25:31.165544   17269 ssh_runner.go:195] Run: sudo rm -f /etc/kubernetes/scheduler.conf
+I0717 14:25:31.178243   17269 ssh_runner.go:195] Run: sudo cp /var/tmp/minikube/kubeadm.yaml.new /var/tmp/minikube/kubeadm.yaml
+I0717 14:25:31.191395   17269 ssh_runner.go:195] Run: /bin/bash -c "sudo env PATH="/var/lib/minikube/binaries/v1.30.0:$PATH" kubeadm init phase certs all --config /var/tmp/minikube/kubeadm.yaml"
+I0717 14:25:31.260151   17269 ssh_runner.go:195] Run: /bin/bash -c "sudo env PATH="/var/lib/minikube/binaries/v1.30.0:$PATH" kubeadm init phase kubeconfig all --config /var/tmp/minikube/kubeadm.yaml"
+I0717 14:25:32.601583   17269 ssh_runner.go:235] Completed: /bin/bash -c "sudo env PATH="/var/lib/minikube/binaries/v1.30.0:$PATH" kubeadm init phase kubeconfig all --config /var/tmp/minikube/kubeadm.yaml": (1.341409142s)
+I0717 14:25:32.601604   17269 ssh_runner.go:195] Run: /bin/bash -c "sudo env PATH="/var/lib/minikube/binaries/v1.30.0:$PATH" kubeadm init phase kubelet-start --config /var/tmp/minikube/kubeadm.yaml"
+I0717 14:25:32.957483   17269 ssh_runner.go:195] Run: /bin/bash -c "sudo env PATH="/var/lib/minikube/binaries/v1.30.0:$PATH" kubeadm init phase control-plane all --config /var/tmp/minikube/kubeadm.yaml"
+I0717 14:25:33.038526   17269 ssh_runner.go:195] Run: /bin/bash -c "sudo env PATH="/var/lib/minikube/binaries/v1.30.0:$PATH" kubeadm init phase etcd local --config /var/tmp/minikube/kubeadm.yaml"
+I0717 14:25:33.175811   17269 api_server.go:52] waiting for apiserver process to appear ...
+I0717 14:25:33.175882   17269 ssh_runner.go:195] Run: sudo pgrep -xnf kube-apiserver.*minikube.*
+I0717 14:25:33.196920   17269 api_server.go:72] duration metric: took 21.117053ms to wait for apiserver process to appear ...
+I0717 14:25:33.196937   17269 api_server.go:88] waiting for apiserver healthz status ...
+I0717 14:25:33.196960   17269 api_server.go:253] Checking apiserver healthz at https://192.168.39.47:8443/healthz ...
+I0717 14:25:38.197496   17269 api_server.go:269] stopped: https://192.168.39.47:8443/healthz: Get "https://192.168.39.47:8443/healthz": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+I0717 14:25:38.197647   17269 api_server.go:253] Checking apiserver healthz at https://192.168.39.47:8443/healthz ...
+I0717 14:25:43.198884   17269 api_server.go:269] stopped: https://192.168.39.47:8443/healthz: Get "https://192.168.39.47:8443/healthz": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+I0717 14:25:43.198934   17269 api_server.go:253] Checking apiserver healthz at https://192.168.39.47:8443/healthz ...
+I0717 14:25:47.662253   17269 api_server.go:269] stopped: https://192.168.39.47:8443/healthz: Get "https://192.168.39.47:8443/healthz": read tcp 192.168.39.1:37336->192.168.39.47:8443: read: connection reset by peer
+I0717 14:25:47.662336   17269 api_server.go:253] Checking apiserver healthz at https://192.168.39.47:8443/healthz ...
+I0717 14:25:47.663517   17269 api_server.go:269] stopped: https://192.168.39.47:8443/healthz: Get "https://192.168.39.47:8443/healthz": dial tcp 192.168.39.47:8443: connect: connection refused
+I0717 14:25:47.698068   17269 api_server.go:253] Checking apiserver healthz at https://192.168.39.47:8443/healthz ...
+I0717 14:25:47.698587   17269 api_server.go:269] stopped: https://192.168.39.47:8443/healthz: Get "https://192.168.39.47:8443/healthz": dial tcp 192.168.39.47:8443: connect: connection refused
+I0717 14:25:48.197851   17269 api_server.go:253] Checking apiserver healthz at https://192.168.39.47:8443/healthz ...
+I0717 14:25:48.199289   17269 api_server.go:269] stopped: https://192.168.39.47:8443/healthz: Get "https://192.168.39.47:8443/healthz": dial tcp 192.168.39.47:8443: connect: connection refused
+I0717 14:25:48.697500   17269 api_server.go:253] Checking apiserver healthz at https://192.168.39.47:8443/healthz ...
+I0717 14:25:48.698727   17269 api_server.go:269] stopped: https://192.168.39.47:8443/healthz: Get "https://192.168.39.47:8443/healthz": dial tcp 192.168.39.47:8443: connect: connection refused
+I0717 14:25:49.197951   17269 api_server.go:253] Checking apiserver healthz at https://192.168.39.47:8443/healthz ...
+I0717 14:25:49.198526   17269 api_server.go:269] stopped: https://192.168.39.47:8443/healthz: Get "https://192.168.39.47:8443/healthz": dial tcp 192.168.39.47:8443: connect: connection refused
+I0717 14:25:49.697536   17269 api_server.go:253] Checking apiserver healthz at https://192.168.39.47:8443/healthz ...
+I0717 14:25:49.698086   17269 api_server.go:269] stopped: https://192.168.39.47:8443/healthz: Get "https://192.168.39.47:8443/healthz": dial tcp 192.168.39.47:8443: connect: connection refused
+I0717 14:25:50.197739   17269 api_server.go:253] Checking apiserver healthz at https://192.168.39.47:8443/healthz ...
+I0717 14:25:50.198297   17269 api_server.go:269] stopped: https://192.168.39.47:8443/healthz: Get "https://192.168.39.47:8443/healthz": dial tcp 192.168.39.47:8443: connect: connection refused
+I0717 14:25:50.697806   17269 api_server.go:253] Checking apiserver healthz at https://192.168.39.47:8443/healthz ...
+I0717 14:25:53.327274   17269 api_server.go:279] https://192.168.39.47:8443/healthz returned 403:
+{"kind":"Status","apiVersion":"v1","metadata":{},"status":"Failure","message":"forbidden: User \"system:anonymous\" cannot get path \"/healthz\"","reason":"Forbidden","details":{},"code":403}
+W0717 14:25:53.327298   17269 api_server.go:103] status: https://192.168.39.47:8443/healthz returned error 403:
+{"kind":"Status","apiVersion":"v1","metadata":{},"status":"Failure","message":"forbidden: User \"system:anonymous\" cannot get path \"/healthz\"","reason":"Forbidden","details":{},"code":403}
+I0717 14:25:53.327311   17269 api_server.go:253] Checking apiserver healthz at https://192.168.39.47:8443/healthz ...
+I0717 14:25:53.352535   17269 api_server.go:279] https://192.168.39.47:8443/healthz returned 403:
+{"kind":"Status","apiVersion":"v1","metadata":{},"status":"Failure","message":"forbidden: User \"system:anonymous\" cannot get path \"/healthz\"","reason":"Forbidden","details":{},"code":403}
+W0717 14:25:53.352560   17269 api_server.go:103] status: https://192.168.39.47:8443/healthz returned error 403:
+{"kind":"Status","apiVersion":"v1","metadata":{},"status":"Failure","message":"forbidden: User \"system:anonymous\" cannot get path \"/healthz\"","reason":"Forbidden","details":{},"code":403}
+I0717 14:25:53.697618   17269 api_server.go:253] Checking apiserver healthz at https://192.168.39.47:8443/healthz ...
+I0717 14:25:53.710415   17269 api_server.go:279] https://192.168.39.47:8443/healthz returned 500:
+[+]ping ok
+[+]log ok
+[+]etcd ok
+[+]poststarthook/start-apiserver-admission-initializer ok
+[+]poststarthook/generic-apiserver-start-informers ok
+[+]poststarthook/priority-and-fairness-config-consumer ok
+[+]poststarthook/priority-and-fairness-filter ok
+[+]poststarthook/storage-object-count-tracker-hook ok
+[+]poststarthook/start-apiextensions-informers ok
+[+]poststarthook/start-apiextensions-controllers ok
+[+]poststarthook/crd-informer-synced ok
+[+]poststarthook/start-service-ip-repair-controllers ok
+[-]poststarthook/rbac/bootstrap-roles failed: reason withheld
+[-]poststarthook/scheduling/bootstrap-system-priority-classes failed: reason withheld
+[+]poststarthook/priority-and-fairness-config-producer ok
+[+]poststarthook/start-system-namespaces-controller ok
+[+]poststarthook/bootstrap-controller ok
+[+]poststarthook/start-cluster-authentication-info-controller ok
+[+]poststarthook/start-kube-apiserver-identity-lease-controller ok
+[+]poststarthook/start-kube-apiserver-identity-lease-garbage-collector ok
+[+]poststarthook/start-legacy-token-tracking-controller ok
+[+]poststarthook/aggregator-reload-proxy-client-cert ok
+[+]poststarthook/start-kube-aggregator-informers ok
+[+]poststarthook/apiservice-registration-controller ok
+[+]poststarthook/apiservice-status-available-controller ok
+[+]poststarthook/apiservice-discovery-controller ok
+[+]poststarthook/kube-apiserver-autoregistration ok
+[+]autoregister-completion ok
+[+]poststarthook/apiservice-openapi-controller ok
+[+]poststarthook/apiservice-openapiv3-controller ok
+healthz check failed
+W0717 14:25:53.710451   17269 api_server.go:103] status: https://192.168.39.47:8443/healthz returned error 500:
+[+]ping ok
+[+]log ok
+[+]etcd ok
+[+]poststarthook/start-apiserver-admission-initializer ok
+[+]poststarthook/generic-apiserver-start-informers ok
+[+]poststarthook/priority-and-fairness-config-consumer ok
+[+]poststarthook/priority-and-fairness-filter ok
+[+]poststarthook/storage-object-count-tracker-hook ok
+[+]poststarthook/start-apiextensions-informers ok
+[+]poststarthook/start-apiextensions-controllers ok
+[+]poststarthook/crd-informer-synced ok
+[+]poststarthook/start-service-ip-repair-controllers ok
+[-]poststarthook/rbac/bootstrap-roles failed: reason withheld
+[-]poststarthook/scheduling/bootstrap-system-priority-classes failed: reason withheld
+[+]poststarthook/priority-and-fairness-config-producer ok
+[+]poststarthook/start-system-namespaces-controller ok
+[+]poststarthook/bootstrap-controller ok
+[+]poststarthook/start-cluster-authentication-info-controller ok
+[+]poststarthook/start-kube-apiserver-identity-lease-controller ok
+[+]poststarthook/start-kube-apiserver-identity-lease-garbage-collector ok
+[+]poststarthook/start-legacy-token-tracking-controller ok
+[+]poststarthook/aggregator-reload-proxy-client-cert ok
+[+]poststarthook/start-kube-aggregator-informers ok
+[+]poststarthook/apiservice-registration-controller ok
+[+]poststarthook/apiservice-status-available-controller ok
+[+]poststarthook/apiservice-discovery-controller ok
+[+]poststarthook/kube-apiserver-autoregistration ok
+[+]autoregister-completion ok
+[+]poststarthook/apiservice-openapi-controller ok
+[+]poststarthook/apiservice-openapiv3-controller ok
+healthz check failed
+I0717 14:25:54.197924   17269 api_server.go:253] Checking apiserver healthz at https://192.168.39.47:8443/healthz ...
+I0717 14:25:54.208369   17269 api_server.go:279] https://192.168.39.47:8443/healthz returned 500:
+[+]ping ok
+[+]log ok
+[+]etcd ok
+[+]poststarthook/start-apiserver-admission-initializer ok
+[+]poststarthook/generic-apiserver-start-informers ok
+[+]poststarthook/priority-and-fairness-config-consumer ok
+[+]poststarthook/priority-and-fairness-filter ok
+[+]poststarthook/storage-object-count-tracker-hook ok
+[+]poststarthook/start-apiextensions-informers ok
+[+]poststarthook/start-apiextensions-controllers ok
+[+]poststarthook/crd-informer-synced ok
+[+]poststarthook/start-service-ip-repair-controllers ok
+[-]poststarthook/rbac/bootstrap-roles failed: reason withheld
+[-]poststarthook/scheduling/bootstrap-system-priority-classes failed: reason withheld
+[+]poststarthook/priority-and-fairness-config-producer ok
+[+]poststarthook/start-system-namespaces-controller ok
+[+]poststarthook/bootstrap-controller ok
+[+]poststarthook/start-cluster-authentication-info-controller ok
+[+]poststarthook/start-kube-apiserver-identity-lease-controller ok
+[+]poststarthook/start-kube-apiserver-identity-lease-garbage-collector ok
+[+]poststarthook/start-legacy-token-tracking-controller ok
+[+]poststarthook/aggregator-reload-proxy-client-cert ok
+[+]poststarthook/start-kube-aggregator-informers ok
+[+]poststarthook/apiservice-registration-controller ok
+[+]poststarthook/apiservice-status-available-controller ok
+[+]poststarthook/apiservice-discovery-controller ok
+[+]poststarthook/kube-apiserver-autoregistration ok
+[+]autoregister-completion ok
+[+]poststarthook/apiservice-openapi-controller ok
+[+]poststarthook/apiservice-openapiv3-controller ok
+healthz check failed
+W0717 14:25:54.208386   17269 api_server.go:103] status: https://192.168.39.47:8443/healthz returned error 500:
+[+]ping ok
+[+]log ok
+[+]etcd ok
+[+]poststarthook/start-apiserver-admission-initializer ok
+[+]poststarthook/generic-apiserver-start-informers ok
+[+]poststarthook/priority-and-fairness-config-consumer ok
+[+]poststarthook/priority-and-fairness-filter ok
+[+]poststarthook/storage-object-count-tracker-hook ok
+[+]poststarthook/start-apiextensions-informers ok
+[+]poststarthook/start-apiextensions-controllers ok
+[+]poststarthook/crd-informer-synced ok
+[+]poststarthook/start-service-ip-repair-controllers ok
+[-]poststarthook/rbac/bootstrap-roles failed: reason withheld
+[-]poststarthook/scheduling/bootstrap-system-priority-classes failed: reason withheld
+[+]poststarthook/priority-and-fairness-config-producer ok
+[+]poststarthook/start-system-namespaces-controller ok
+[+]poststarthook/bootstrap-controller ok
+[+]poststarthook/start-cluster-authentication-info-controller ok
+[+]poststarthook/start-kube-apiserver-identity-lease-controller ok
+[+]poststarthook/start-kube-apiserver-identity-lease-garbage-collector ok
+[+]poststarthook/start-legacy-token-tracking-controller ok
+[+]poststarthook/aggregator-reload-proxy-client-cert ok
+[+]poststarthook/start-kube-aggregator-informers ok
+[+]poststarthook/apiservice-registration-controller ok
+[+]poststarthook/apiservice-status-available-controller ok
+[+]poststarthook/apiservice-discovery-controller ok
+[+]poststarthook/kube-apiserver-autoregistration ok
+[+]autoregister-completion ok
+[+]poststarthook/apiservice-openapi-controller ok
+[+]poststarthook/apiservice-openapiv3-controller ok
+healthz check failed
+I0717 14:25:54.697490   17269 api_server.go:253] Checking apiserver healthz at https://192.168.39.47:8443/healthz ...
+I0717 14:25:54.713737   17269 api_server.go:279] https://192.168.39.47:8443/healthz returned 500:
+[+]ping ok
+[+]log ok
+[+]etcd ok
+[+]poststarthook/start-apiserver-admission-initializer ok
+[+]poststarthook/generic-apiserver-start-informers ok
+[+]poststarthook/priority-and-fairness-config-consumer ok
+[+]poststarthook/priority-and-fairness-filter ok
+[+]poststarthook/storage-object-count-tracker-hook ok
+[+]poststarthook/start-apiextensions-informers ok
+[+]poststarthook/start-apiextensions-controllers ok
+[+]poststarthook/crd-informer-synced ok
+[+]poststarthook/start-service-ip-repair-controllers ok
+[-]poststarthook/rbac/bootstrap-roles failed: reason withheld
+[+]poststarthook/scheduling/bootstrap-system-priority-classes ok
+[+]poststarthook/priority-and-fairness-config-producer ok
+[+]poststarthook/start-system-namespaces-controller ok
+[+]poststarthook/bootstrap-controller ok
+[+]poststarthook/start-cluster-authentication-info-controller ok
+[+]poststarthook/start-kube-apiserver-identity-lease-controller ok
+[+]poststarthook/start-kube-apiserver-identity-lease-garbage-collector ok
+[+]poststarthook/start-legacy-token-tracking-controller ok
+[+]poststarthook/aggregator-reload-proxy-client-cert ok
+[+]poststarthook/start-kube-aggregator-informers ok
+[+]poststarthook/apiservice-registration-controller ok
+[+]poststarthook/apiservice-status-available-controller ok
+[+]poststarthook/apiservice-discovery-controller ok
+[+]poststarthook/kube-apiserver-autoregistration ok
+[+]autoregister-completion ok
+[+]poststarthook/apiservice-openapi-controller ok
+[+]poststarthook/apiservice-openapiv3-controller ok
+healthz check failed
+W0717 14:25:54.713754   17269 api_server.go:103] status: https://192.168.39.47:8443/healthz returned error 500:
+[+]ping ok
+[+]log ok
+[+]etcd ok
+[+]poststarthook/start-apiserver-admission-initializer ok
+[+]poststarthook/generic-apiserver-start-informers ok
+[+]poststarthook/priority-and-fairness-config-consumer ok
+[+]poststarthook/priority-and-fairness-filter ok
+[+]poststarthook/storage-object-count-tracker-hook ok
+[+]poststarthook/start-apiextensions-informers ok
+[+]poststarthook/start-apiextensions-controllers ok
+[+]poststarthook/crd-informer-synced ok
+[+]poststarthook/start-service-ip-repair-controllers ok
+[-]poststarthook/rbac/bootstrap-roles failed: reason withheld
+[+]poststarthook/scheduling/bootstrap-system-priority-classes ok
+[+]poststarthook/priority-and-fairness-config-producer ok
+[+]poststarthook/start-system-namespaces-controller ok
+[+]poststarthook/bootstrap-controller ok
+[+]poststarthook/start-cluster-authentication-info-controller ok
+[+]poststarthook/start-kube-apiserver-identity-lease-controller ok
+[+]poststarthook/start-kube-apiserver-identity-lease-garbage-collector ok
+[+]poststarthook/start-legacy-token-tracking-controller ok
+[+]poststarthook/aggregator-reload-proxy-client-cert ok
+[+]poststarthook/start-kube-aggregator-informers ok
+[+]poststarthook/apiservice-registration-controller ok
+[+]poststarthook/apiservice-status-available-controller ok
+[+]poststarthook/apiservice-discovery-controller ok
+[+]poststarthook/kube-apiserver-autoregistration ok
+[+]autoregister-completion ok
+[+]poststarthook/apiservice-openapi-controller ok
+[+]poststarthook/apiservice-openapiv3-controller ok
+healthz check failed
+I0717 14:25:55.197753   17269 api_server.go:253] Checking apiserver healthz at https://192.168.39.47:8443/healthz ...
+I0717 14:25:55.203522   17269 api_server.go:279] https://192.168.39.47:8443/healthz returned 200:
+ok
+I0717 14:25:55.214263   17269 api_server.go:141] control plane version: v1.30.0
+I0717 14:25:55.214282   17269 api_server.go:131] duration metric: took 22.017338253s to wait for apiserver health ...
+I0717 14:25:55.214290   17269 cni.go:84] Creating CNI manager for ""
+I0717 14:25:55.214303   17269 cni.go:158] "kvm2" driver + "docker" container runtime found on kubernetes v1.24+, recommending bridge
+I0717 14:25:55.217248   17269 out.go:177] 🔗  Configuring bridge CNI (Container Networking Interface) ...
+I0717 14:25:55.220285   17269 ssh_runner.go:195] Run: sudo mkdir -p /etc/cni/net.d
+I0717 14:25:55.235553   17269 ssh_runner.go:362] scp memory --> /etc/cni/net.d/1-k8s.conflist (496 bytes)
+I0717 14:25:55.272905   17269 system_pods.go:43] waiting for kube-system pods to appear ...
+I0717 14:25:55.286857   17269 system_pods.go:59] 7 kube-system pods found
+I0717 14:25:55.286887   17269 system_pods.go:61] "coredns-7db6d8ff4d-dcprn" [2be547b4-8986-4acc-9364-bd7fcb528c81] Running / Ready:ContainersNotReady (containers with unready status: [coredns]) / ContainersReady:ContainersNotReady (containers with unready status: [coredns])
+I0717 14:25:55.286902   17269 system_pods.go:61] "etcd-minikube" [5315e616-e242-4d22-bc66-bf322c55cfa9] Running / Ready:ContainersNotReady (containers with unready status: [etcd]) / ContainersReady:ContainersNotReady (containers with unready status: [etcd])
+I0717 14:25:55.286914   17269 system_pods.go:61] "kube-apiserver-minikube" [60c8ffd5-8e01-472a-bb20-2febf209b6b5] Running / Ready:ContainersNotReady (containers with unready status: [kube-apiserver]) / ContainersReady:ContainersNotReady (containers with unready status: [kube-apiserver])
+I0717 14:25:55.286927   17269 system_pods.go:61] "kube-controller-manager-minikube" [9bdef3f5-5c17-4b1f-a798-4f3c065e7dee] Running / Ready:ContainersNotReady (containers with unready status: [kube-controller-manager]) / ContainersReady:ContainersNotReady (containers with unready status: [kube-controller-manager])
+I0717 14:25:55.286935   17269 system_pods.go:61] "kube-proxy-czxzr" [77a55be6-a336-4bdf-b58b-a2f775121625] Running
+I0717 14:25:55.286941   17269 system_pods.go:61] "kube-scheduler-minikube" [84f88c07-854c-4a8d-af98-43f391985498] Running / Ready:ContainersNotReady (containers with unready status: [kube-scheduler]) / ContainersReady:ContainersNotReady (containers with unready status: [kube-scheduler])
+I0717 14:25:55.286944   17269 system_pods.go:61] "storage-provisioner" [9919e55a-f712-4e27-bccb-d836eaa1b6a1] Running
+I0717 14:25:55.286952   17269 system_pods.go:74] duration metric: took 14.034324ms to wait for pod list to return data ...
+I0717 14:25:55.286961   17269 node_conditions.go:102] verifying NodePressure condition ...
+I0717 14:25:55.294010   17269 node_conditions.go:122] node storage ephemeral capacity is 17734596Ki
+I0717 14:25:55.294028   17269 node_conditions.go:123] node cpu capacity is 3
+I0717 14:25:55.294038   17269 node_conditions.go:105] duration metric: took 7.071237ms to run NodePressure ...
+I0717 14:25:55.294054   17269 ssh_runner.go:195] Run: /bin/bash -c "sudo env PATH="/var/lib/minikube/binaries/v1.30.0:$PATH" kubeadm init phase addon all --config /var/tmp/minikube/kubeadm.yaml"
+I0717 14:25:55.616838   17269 ssh_runner.go:195] Run: /bin/bash -c "cat /proc/$(pgrep kube-apiserver)/oom_adj"
+I0717 14:25:55.636706   17269 ops.go:34] apiserver oom_adj: -16
+I0717 14:25:55.636717   17269 kubeadm.go:591] duration metric: took 34.922960237s to restartPrimaryControlPlane
+I0717 14:25:55.636725   17269 kubeadm.go:393] duration metric: took 34.980227114s to StartCluster
+I0717 14:25:55.636741   17269 settings.go:142] acquiring lock: {Name:mk1a7fe88005b6c8376436c845b93aa0094af076 Clock:{} Delay:500ms Timeout:1m0s Cancel:<nil>}
+I0717 14:25:55.636802   17269 settings.go:150] Updating kubeconfig:  /home/thanhnga/.kube/config
+I0717 14:25:55.637488   17269 lock.go:35] WriteFile acquiring /home/thanhnga/.kube/config: {Name:mk42de2afd0a9bdf1f579d655cc613cf705f0808 Clock:{} Delay:500ms Timeout:1m0s Cancel:<nil>}
+I0717 14:25:55.637724   17269 start.go:234] Will wait 6m0s for node &{Name: IP:192.168.39.47 Port:8443 KubernetesVersion:v1.30.0 ContainerRuntime:docker ControlPlane:true Worker:true}
+I0717 14:25:55.640582   17269 out.go:177] 🔎  Verifying Kubernetes components...
+I0717 14:25:55.637784   17269 addons.go:502] enable addons start: toEnable=map[ambassador:false auto-pause:false cloud-spanner:false csi-hostpath-driver:false dashboard:false default-storageclass:true efk:false freshpod:false gcp-auth:false gvisor:false headlamp:false helm-tiller:false inaccel:false ingress:false ingress-dns:false inspektor-gadget:false istio:false istio-provisioner:false kong:false kubeflow:false kubevirt:false logviewer:false metallb:false metrics-server:false nvidia-device-plugin:false nvidia-driver-installer:false nvidia-gpu-device-plugin:false olm:false pod-security-policy:false portainer:false registry:false registry-aliases:false registry-creds:false storage-provisioner:true storage-provisioner-gluster:false storage-provisioner-rancher:false volumesnapshots:false yakd:false]
+I0717 14:25:55.638016   17269 config.go:182] Loaded profile config "minikube": Driver=kvm2, ContainerRuntime=docker, KubernetesVersion=v1.30.0
+I0717 14:25:55.645901   17269 ssh_runner.go:195] Run: sudo systemctl daemon-reload
+I0717 14:25:55.645897   17269 addons.go:69] Setting storage-provisioner=true in profile "minikube"
+I0717 14:25:55.645912   17269 addons.go:69] Setting default-storageclass=true in profile "minikube"
+I0717 14:25:55.645943   17269 addons.go:234] Setting addon storage-provisioner=true in "minikube"
+W0717 14:25:55.645956   17269 addons.go:243] addon storage-provisioner should already be in state true
+I0717 14:25:55.645952   17269 addons_storage_classes.go:33] enableOrDisableStorageClasses default-storageclass=true on "minikube"
+I0717 14:25:55.646000   17269 host.go:66] Checking if "minikube" exists ...
+I0717 14:25:55.646571   17269 main.go:141] libmachine: Found binary path at /home/thanhnga/.minikube/bin/docker-machine-driver-kvm2
+I0717 14:25:55.646578   17269 main.go:141] libmachine: Found binary path at /home/thanhnga/.minikube/bin/docker-machine-driver-kvm2
+I0717 14:25:55.646617   17269 main.go:141] libmachine: Launching plugin server for driver kvm2
+I0717 14:25:55.646704   17269 main.go:141] libmachine: Launching plugin server for driver kvm2
+I0717 14:25:55.673867   17269 main.go:141] libmachine: Plugin server listening at address 127.0.0.1:38669
+I0717 14:25:55.674348   17269 main.go:141] libmachine: () Calling .GetVersion
+I0717 14:25:55.675127   17269 main.go:141] libmachine: Using API Version  1
+I0717 14:25:55.675157   17269 main.go:141] libmachine: () Calling .SetConfigRaw
+I0717 14:25:55.675607   17269 main.go:141] libmachine: () Calling .GetMachineName
+I0717 14:25:55.675874   17269 main.go:141] libmachine: (minikube) Calling .GetState
+I0717 14:25:55.681867   17269 main.go:141] libmachine: Plugin server listening at address 127.0.0.1:37097
+I0717 14:25:55.682359   17269 main.go:141] libmachine: () Calling .GetVersion
+I0717 14:25:55.683024   17269 main.go:141] libmachine: Using API Version  1
+I0717 14:25:55.683050   17269 main.go:141] libmachine: () Calling .SetConfigRaw
+I0717 14:25:55.683523   17269 main.go:141] libmachine: () Calling .GetMachineName
+I0717 14:25:55.684244   17269 main.go:141] libmachine: Found binary path at /home/thanhnga/.minikube/bin/docker-machine-driver-kvm2
+I0717 14:25:55.684291   17269 main.go:141] libmachine: Launching plugin server for driver kvm2
+I0717 14:25:55.684968   17269 addons.go:234] Setting addon default-storageclass=true in "minikube"
+W0717 14:25:55.684983   17269 addons.go:243] addon default-storageclass should already be in state true
+I0717 14:25:55.685022   17269 host.go:66] Checking if "minikube" exists ...
+I0717 14:25:55.685572   17269 main.go:141] libmachine: Found binary path at /home/thanhnga/.minikube/bin/docker-machine-driver-kvm2
+I0717 14:25:55.685617   17269 main.go:141] libmachine: Launching plugin server for driver kvm2
+I0717 14:25:55.711281   17269 main.go:141] libmachine: Plugin server listening at address 127.0.0.1:33545
+I0717 14:25:55.711765   17269 main.go:141] libmachine: () Calling .GetVersion
+I0717 14:25:55.712382   17269 main.go:141] libmachine: Using API Version  1
+I0717 14:25:55.712402   17269 main.go:141] libmachine: () Calling .SetConfigRaw
+I0717 14:25:55.712769   17269 main.go:141] libmachine: () Calling .GetMachineName
+I0717 14:25:55.712980   17269 main.go:141] libmachine: (minikube) Calling .GetState
+I0717 14:25:55.720781   17269 main.go:141] libmachine: Plugin server listening at address 127.0.0.1:40769
+I0717 14:25:55.721196   17269 main.go:141] libmachine: () Calling .GetVersion
+I0717 14:25:55.721342   17269 main.go:141] libmachine: (minikube) Calling .DriverName
+I0717 14:25:55.724495   17269 out.go:177]     ▪ Using image gcr.io/k8s-minikube/storage-provisioner:v5
+I0717 14:25:55.721780   17269 main.go:141] libmachine: Using API Version  1
+I0717 14:25:55.727425   17269 main.go:141] libmachine: () Calling .SetConfigRaw
+I0717 14:25:55.727530   17269 addons.go:426] installing /etc/kubernetes/addons/storage-provisioner.yaml
+I0717 14:25:55.727545   17269 ssh_runner.go:362] scp memory --> /etc/kubernetes/addons/storage-provisioner.yaml (2676 bytes)
+I0717 14:25:55.727569   17269 main.go:141] libmachine: (minikube) Calling .GetSSHHostname
+I0717 14:25:55.728028   17269 main.go:141] libmachine: () Calling .GetMachineName
+I0717 14:25:55.728868   17269 main.go:141] libmachine: Found binary path at /home/thanhnga/.minikube/bin/docker-machine-driver-kvm2
+I0717 14:25:55.728915   17269 main.go:141] libmachine: Launching plugin server for driver kvm2
+I0717 14:25:55.740929   17269 main.go:141] libmachine: (minikube) DBG | domain minikube has defined MAC address 52:54:00:f3:6f:97 in network mk-minikube
+I0717 14:25:55.741719   17269 main.go:141] libmachine: (minikube) DBG | found host DHCP lease matching {name: "", mac: "52:54:00:f3:6f:97", ip: ""} in network mk-minikube: {Iface:virbr1 ExpiryTime:2024-07-17 15:24:11 +0700 +07 Type:0 Mac:52:54:00:f3:6f:97 Iaid: IPaddr:192.168.39.47 Prefix:24 Hostname:minikube Clientid:01:52:54:00:f3:6f:97}
+I0717 14:25:55.741750   17269 main.go:141] libmachine: (minikube) DBG | domain minikube has defined IP address 192.168.39.47 and MAC address 52:54:00:f3:6f:97 in network mk-minikube
+I0717 14:25:55.742012   17269 main.go:141] libmachine: (minikube) Calling .GetSSHPort
+I0717 14:25:55.742264   17269 main.go:141] libmachine: (minikube) Calling .GetSSHKeyPath
+I0717 14:25:55.742467   17269 main.go:141] libmachine: (minikube) Calling .GetSSHUsername
+I0717 14:25:55.742656   17269 sshutil.go:53] new ssh client: &{IP:192.168.39.47 Port:22 SSHKeyPath:/home/thanhnga/.minikube/machines/minikube/id_rsa Username:docker}
+I0717 14:25:55.764999   17269 main.go:141] libmachine: Plugin server listening at address 127.0.0.1:38377
+I0717 14:25:55.765472   17269 main.go:141] libmachine: () Calling .GetVersion
+I0717 14:25:55.766018   17269 main.go:141] libmachine: Using API Version  1
+I0717 14:25:55.766039   17269 main.go:141] libmachine: () Calling .SetConfigRaw
+I0717 14:25:55.766365   17269 main.go:141] libmachine: () Calling .GetMachineName
+I0717 14:25:55.766640   17269 main.go:141] libmachine: (minikube) Calling .GetState
+I0717 14:25:55.773233   17269 main.go:141] libmachine: (minikube) Calling .DriverName
+I0717 14:25:55.773629   17269 addons.go:426] installing /etc/kubernetes/addons/storageclass.yaml
+I0717 14:25:55.773643   17269 ssh_runner.go:362] scp storageclass/storageclass.yaml --> /etc/kubernetes/addons/storageclass.yaml (271 bytes)
+I0717 14:25:55.773667   17269 main.go:141] libmachine: (minikube) Calling .GetSSHHostname
+I0717 14:25:55.786339   17269 main.go:141] libmachine: (minikube) DBG | domain minikube has defined MAC address 52:54:00:f3:6f:97 in network mk-minikube
+I0717 14:25:55.786828   17269 main.go:141] libmachine: (minikube) DBG | found host DHCP lease matching {name: "", mac: "52:54:00:f3:6f:97", ip: ""} in network mk-minikube: {Iface:virbr1 ExpiryTime:2024-07-17 15:24:11 +0700 +07 Type:0 Mac:52:54:00:f3:6f:97 Iaid: IPaddr:192.168.39.47 Prefix:24 Hostname:minikube Clientid:01:52:54:00:f3:6f:97}
+I0717 14:25:55.786864   17269 main.go:141] libmachine: (minikube) DBG | domain minikube has defined IP address 192.168.39.47 and MAC address 52:54:00:f3:6f:97 in network mk-minikube
+I0717 14:25:55.787079   17269 main.go:141] libmachine: (minikube) Calling .GetSSHPort
+I0717 14:25:55.787295   17269 main.go:141] libmachine: (minikube) Calling .GetSSHKeyPath
+I0717 14:25:55.787486   17269 main.go:141] libmachine: (minikube) Calling .GetSSHUsername
+I0717 14:25:55.787675   17269 sshutil.go:53] new ssh client: &{IP:192.168.39.47 Port:22 SSHKeyPath:/home/thanhnga/.minikube/machines/minikube/id_rsa Username:docker}
+I0717 14:25:55.995745   17269 ssh_runner.go:195] Run: sudo systemctl start kubelet
+I0717 14:25:56.016393   17269 api_server.go:52] waiting for apiserver process to appear ...
+I0717 14:25:56.016457   17269 ssh_runner.go:195] Run: sudo pgrep -xnf kube-apiserver.*minikube.*
+I0717 14:25:56.036944   17269 api_server.go:72] duration metric: took 399.192166ms to wait for apiserver process to appear ...
+I0717 14:25:56.036962   17269 api_server.go:88] waiting for apiserver healthz status ...
+I0717 14:25:56.036985   17269 api_server.go:253] Checking apiserver healthz at https://192.168.39.47:8443/healthz ...
+I0717 14:25:56.044399   17269 api_server.go:279] https://192.168.39.47:8443/healthz returned 200:
+ok
+I0717 14:25:56.045457   17269 api_server.go:141] control plane version: v1.30.0
+I0717 14:25:56.045470   17269 api_server.go:131] duration metric: took 8.500319ms to wait for apiserver health ...
+I0717 14:25:56.045478   17269 system_pods.go:43] waiting for kube-system pods to appear ...
+I0717 14:25:56.053853   17269 system_pods.go:59] 7 kube-system pods found
+I0717 14:25:56.053872   17269 system_pods.go:61] "coredns-7db6d8ff4d-dcprn" [2be547b4-8986-4acc-9364-bd7fcb528c81] Running / Ready:ContainersNotReady (containers with unready status: [coredns]) / ContainersReady:ContainersNotReady (containers with unready status: [coredns])
+I0717 14:25:56.053880   17269 system_pods.go:61] "etcd-minikube" [5315e616-e242-4d22-bc66-bf322c55cfa9] Running / Ready:ContainersNotReady (containers with unready status: [etcd]) / ContainersReady:ContainersNotReady (containers with unready status: [etcd])
+I0717 14:25:56.053888   17269 system_pods.go:61] "kube-apiserver-minikube" [60c8ffd5-8e01-472a-bb20-2febf209b6b5] Running / Ready:ContainersNotReady (containers with unready status: [kube-apiserver]) / ContainersReady:ContainersNotReady (containers with unready status: [kube-apiserver])
+I0717 14:25:56.053895   17269 system_pods.go:61] "kube-controller-manager-minikube" [9bdef3f5-5c17-4b1f-a798-4f3c065e7dee] Running / Ready:ContainersNotReady (containers with unready status: [kube-controller-manager]) / ContainersReady:ContainersNotReady (containers with unready status: [kube-controller-manager])
+I0717 14:25:56.053899   17269 system_pods.go:61] "kube-proxy-czxzr" [77a55be6-a336-4bdf-b58b-a2f775121625] Running
+I0717 14:25:56.053906   17269 system_pods.go:61] "kube-scheduler-minikube" [84f88c07-854c-4a8d-af98-43f391985498] Running / Ready:ContainersNotReady (containers with unready status: [kube-scheduler]) / ContainersReady:ContainersNotReady (containers with unready status: [kube-scheduler])
+I0717 14:25:56.053909   17269 system_pods.go:61] "storage-provisioner" [9919e55a-f712-4e27-bccb-d836eaa1b6a1] Running
+I0717 14:25:56.053916   17269 system_pods.go:74] duration metric: took 8.432338ms to wait for pod list to return data ...
+I0717 14:25:56.053928   17269 kubeadm.go:576] duration metric: took 416.181149ms to wait for: map[apiserver:true system_pods:true]
+I0717 14:25:56.053942   17269 node_conditions.go:102] verifying NodePressure condition ...
+I0717 14:25:56.058451   17269 node_conditions.go:122] node storage ephemeral capacity is 17734596Ki
+I0717 14:25:56.058469   17269 node_conditions.go:123] node cpu capacity is 3
+I0717 14:25:56.058482   17269 node_conditions.go:105] duration metric: took 4.534248ms to run NodePressure ...
+I0717 14:25:56.058501   17269 start.go:240] waiting for startup goroutines ...
+I0717 14:25:56.096053   17269 ssh_runner.go:195] Run: sudo KUBECONFIG=/var/lib/minikube/kubeconfig /var/lib/minikube/binaries/v1.30.0/kubectl apply -f /etc/kubernetes/addons/storageclass.yaml
+I0717 14:25:56.240086   17269 ssh_runner.go:195] Run: sudo KUBECONFIG=/var/lib/minikube/kubeconfig /var/lib/minikube/binaries/v1.30.0/kubectl apply -f /etc/kubernetes/addons/storage-provisioner.yaml
+I0717 14:25:56.280089   17269 main.go:141] libmachine: Making call to close driver server
+I0717 14:25:56.280108   17269 main.go:141] libmachine: (minikube) Calling .Close
+I0717 14:25:56.280381   17269 main.go:141] libmachine: (minikube) DBG | Closing plugin on server side
+I0717 14:25:56.280425   17269 main.go:141] libmachine: Successfully made call to close driver server
+I0717 14:25:56.280437   17269 main.go:141] libmachine: Making call to close connection to plugin binary
+I0717 14:25:56.280449   17269 main.go:141] libmachine: Making call to close driver server
+I0717 14:25:56.280460   17269 main.go:141] libmachine: (minikube) Calling .Close
+I0717 14:25:56.280713   17269 main.go:141] libmachine: Successfully made call to close driver server
+I0717 14:25:56.280728   17269 main.go:141] libmachine: Making call to close connection to plugin binary
+I0717 14:25:56.287714   17269 main.go:141] libmachine: Making call to close driver server
+I0717 14:25:56.287727   17269 main.go:141] libmachine: (minikube) Calling .Close
+I0717 14:25:56.288012   17269 main.go:141] libmachine: Successfully made call to close driver server
+I0717 14:25:56.288033   17269 main.go:141] libmachine: Making call to close connection to plugin binary
+I0717 14:25:56.288037   17269 main.go:141] libmachine: (minikube) DBG | Closing plugin on server side
+I0717 14:25:57.109886   17269 main.go:141] libmachine: Making call to close driver server
+I0717 14:25:57.109906   17269 main.go:141] libmachine: (minikube) Calling .Close
+I0717 14:25:57.110212   17269 main.go:141] libmachine: (minikube) DBG | Closing plugin on server side
+I0717 14:25:57.110217   17269 main.go:141] libmachine: Successfully made call to close driver server
+I0717 14:25:57.110228   17269 main.go:141] libmachine: Making call to close connection to plugin binary
+I0717 14:25:57.110238   17269 main.go:141] libmachine: Making call to close driver server
+I0717 14:25:57.110245   17269 main.go:141] libmachine: (minikube) Calling .Close
+I0717 14:25:57.110458   17269 main.go:141] libmachine: (minikube) DBG | Closing plugin on server side
+I0717 14:25:57.110494   17269 main.go:141] libmachine: Successfully made call to close driver server
+I0717 14:25:57.110505   17269 main.go:141] libmachine: Making call to close connection to plugin binary
+I0717 14:25:57.120289   17269 out.go:177] 🌟  Enabled addons: default-storageclass, storage-provisioner
+I0717 14:25:57.123043   17269 addons.go:505] duration metric: took 1.485265889s for enable addons: enabled=[default-storageclass storage-provisioner]
+I0717 14:25:57.123073   17269 start.go:245] waiting for cluster config update ...
+I0717 14:25:57.123087   17269 start.go:254] writing updated cluster config ...
+I0717 14:25:57.123391   17269 ssh_runner.go:195] Run: rm -f paused
+I0717 14:25:57.194659   17269 start.go:600] kubectl: 1.30.2, cluster: 1.30.0 (minor skew: 0)
+I0717 14:25:57.197672   17269 out.go:177] 🏄  Done! kubectl is now configured to use "minikube" cluster and "default" namespace by default
+
+
