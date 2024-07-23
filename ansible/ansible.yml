@@ -18,6 +18,7 @@
     - name: tomcat deployment
       command: /var/lib/jenkins/workspace/project/ansible/./tomcat-deployment.sh
   
+    
       
 
     
